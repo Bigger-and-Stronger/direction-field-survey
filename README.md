@@ -41,7 +41,7 @@ L. Simons, N. Amenta
 
 05 December 2016, TOG
 
-[[doi]](https://dl.acm.org/doi/10.1145/2980179.2982408) [[code - in AlgoHex]](https://github.com/cgg-bern/AlgoHex) [[code - in Supplemental materials]](https://dl.acm.org/doi/suppl/10.1145/2980179.2982408/suppl_file/233-0220.zip)
+[[doi]](https://dl.acm.org/doi/10.1145/2980179.2982408) [[code - in AlgoHex]](https://github.com/cgg-bern/AlgoHex) [[code - in Supplemental materials]](https://dl.acm.org/doi/suppl/10.1145/2980179.2982408/suppl_file/233-0220.zip):white_check_mark:
 <!-- ----------------------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Frame-field-generation-through-metric-customization.png" width="300"><td>
 
@@ -51,7 +51,7 @@ Tengfei Jiang, [Xianzhong Fang], [Jin Huang], [Hujun Bao], Yiying Tong, Mathieu 
 
 27 July 2015, TOG
 
-[[doi]](https://dl.acm.org/doi/10.1145/2766927) [[pdf]](https://www.geometry.caltech.edu/pubs/JFHB+15.pdf)
+[[doi]](https://dl.acm.org/doi/10.1145/2766927) [[pdf]](https://www.geometry.caltech.edu/pubs/JFHB+15.pdf) [[errata]](http://www.cad.zju.edu.cn/home/hj/15/metric/errata.pdf)
 <!-- ----------------------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Frame-fields-anisotropic-and-non-orthogonal-cross-fields.png" width="300"><td>
 
@@ -63,6 +63,26 @@ Tengfei Jiang, [Xianzhong Fang], [Jin Huang], [Hujun Bao], Yiying Tong, Mathieu 
 
 [[doi]](https://dl.acm.org/doi/10.1145/2601097.2601179) [[pdf]](https://cims.nyu.edu/gcl/papers/frame-fields-2014.pdf) [[project]](https://igl.ethz.ch/projects/frame-fields/) [[code - libigl]](http://www.inf.ethz.ch/personal/dpanozzo/libigl_tutorial/506_FrameField/main.cpp):no_entry_sign:
 <!-- ----------------------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Boundary-aligned-smooth-3D-cross-frame-field.png" width="300"><td>
+
+**Boundary aligned smooth 3D cross-frame field**
+
+[Jin Huang], Yiying Tong, Hongyu Wei, [Hujun Bao]
+
+12 December 2011, TOG
+
+[[doi]](https://doi.org/10.1145/2070781.2024177) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2070781.2024177) [[video]](http://www.cad.zju.edu.cn/home/hj/11/3D-cross-frame.avi) [[exe]](http://www.cad.zju.edu.cn/home/hj/11/SH-cross-frame-1607-JiongCHEN.7z)
+<!-- ----------------------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Geometry-aware-direction-field-processing.png" width="300"><td>
+
+**Geometry-aware direction field processing**
+
+[Nicolas Ray], Bruno Vallet, Laurent Alonso, [Bruno Levy]
+
+15 December 2009, TOG
+
+[[doi]](https://doi.org/10.1145/1640443.1640444) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/1640443.1640444)
+<!-- ----------------------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/N-symmetry-direction-field-design.png" width="300"><td>
 
 **N-symmetry direction field design**
@@ -72,6 +92,46 @@ Tengfei Jiang, [Xianzhong Fang], [Jin Huang], [Hujun Bao], Yiying Tong, Mathieu 
 08 May 2008, TOG
 
 [[doi]](https://dl.acm.org/doi/abs/10.1145/1356682.1356683)
+<!-- ----------------------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Periodic-global-parameterization.png" width="300"><td>
+
+**Periodic global parameterization**
+
+[Nicolas Ray], Wan Chiu Li, [Bruno Lévy], Alla Sheffer, Pierre Alliez
+
+01 October 2006, TOG
+
+[[doi]](https://dl.acm.org/doi/10.1145/1183287.1183297) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/1183287.1183297)
+<!-- ----------------------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Robust-Principal-Curvatures-on-Multiple-Scales.png" width="300"><td>
+
+**Robust Principal Curvatures on Multiple Scales**
+
+Yong-Liang Yang, [Yu-Kun Lai], [Shi-Min Hu], Helmut Pottmann
+
+2006, SGP
+
+[[doi]](https://doi.org/10.2312/SGP/SGP06/223-226) [[pdf]](https://www.yongliangyang.net/docs/integralCurvature_sgp06.pdf)
+<!-- ----------------------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Smooth-feature-lines-on-surface-meshes.png" width="300"><td>
+
+**Smooth feature lines on surface meshes**
+
+Klaus Hildebrandt, Konrad Polthier, Max Wardetzky
+
+04 July 2005, SGP
+
+[[doi]](https://dl.acm.org/doi/10.5555/1281920.1281935) [[pdf]](https://ddg.math.uni-goettingen.de/pub/feature.pdf) [[code?]](https://github.com/NYUGP17/SmoothFeatureLinesonSurfaceMeshes) [[code?]](https://github.com/Bushite/Smooth-Feature-Lines-Extraction)
+<!-- ----------------------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Restricted-delaunay-triangulations-and-normal-cycle.png" width="300"><td>
+
+**Restricted delaunay triangulations and normal cycle**
+
+David Cohen-Steiner, Jean-Marie Morvan
+
+08 June 2003, SCG
+
+[[doi]](https://dl.acm.org/doi/abs/10.1145/777792.777839) [[pdf]](https://www.cs.jhu.edu/~misha/Fall09/Steiner03.pdf)
 </table>
 
 # :hammer: Other Projects
@@ -121,3 +181,4 @@ Tengfei Jiang, [Xianzhong Fang], [Jin Huang], [Hujun Bao], Yiying Tong, Mathieu 
 [Xianzhong Fang]: https://xzfang.top/
 [Xingyi Du]: https://duxingyi-charles.github.io/
 [Yang Liu]: https://xueyuhanlang.github.io/
+[Yu-Kun Lai]: https://users.cs.cf.ac.uk/Yukun.Lai/
