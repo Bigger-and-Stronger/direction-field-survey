@@ -33,6 +33,26 @@ L. Simons, N. Amenta
 
 [[doi]](https://ieeexplore.ieee.org/document/9655471) [[exe]](https://github.com/xianzhongfang/MetricDrivenFrame3D)
 <!-- ----------------------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Octahedral-Frames-for-Feature-Aligned-Cross-Fields.png" width="300"><td>
+
+**Octahedral Frames for Feature-Aligned Cross Fields**
+
+Paul Zhang, Josh Vekhter, Edward Chien, [David Bommes], Etienne Vouga, Justin Solomon
+
+24 April 2020, TOG
+
+[[doi]](https://dl.acm.org/doi/10.1145/3374209) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3374209) [[code?]](https://github.com/the13fools/Feature-Aligned-Cross-Fields)
+<!-- ----------------------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Directional-field-synthesis-design-and-processing.png" width="300"><td>
+
+**Directional field synthesis, design, and processing**
+
+[Amir Vaxman], [Marcel Campen], Olga Diamanti, [David Bommes], Klaus Hildebrandt, Mirela Ben-Chen Technion, [Daniele Panozzo]
+
+30 July 2017, TOG
+
+[[doi]](https://doi.org/10.1145/3084873.3084921) [[pdf]](https://cims.nyu.edu/gcl/papers/DirectionalFieldsSTAR-2016.pdf) [[code]](https://github.com/avaxman/DirectionalFieldSynthesis)
+<!-- ----------------------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Practical-3D-frame-field-generation.png" width="300"><td>
 
 **Practical 3D frame field generation**
@@ -53,6 +73,16 @@ Tengfei Jiang, [Xianzhong Fang], [Jin Huang], [Hujun Bao], Yiying Tong, Mathieu 
 
 [[doi]](https://dl.acm.org/doi/10.1145/2766927) [[pdf]](https://www.geometry.caltech.edu/pubs/JFHB+15.pdf) [[errata]](http://www.cad.zju.edu.cn/home/hj/15/metric/errata.pdf)
 <!-- ----------------------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Designing-N-PolyVector-Fields-with-Complex-Polynomials.png" width="300"><td>
+
+**Designing N-PolyVector Fields with Complex Polynomials**
+
+Olga Diamanti, [Amir Vaxman], [Daniele Panozzo], [Olga Sorkine-Hornung]
+
+01 August 2014, CGF
+
+[[doi]](https://dl.acm.org/doi/10.5555/2771589.2771590) [[pdf]](https://cims.nyu.edu/gcl/papers/n-polyvector-fields.pdf) [[project page]](https://igl.ethz.ch/projects/complex-roots/) [[code]](https://igl.ethz.ch/projects/complex-roots/nPV.zip)
+<!-- ----------------------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Frame-fields-anisotropic-and-non-orthogonal-cross-fields.png" width="300"><td>
 
 **Frame fields: anisotropic and non-orthogonal cross fields**
@@ -63,6 +93,26 @@ Tengfei Jiang, [Xianzhong Fang], [Jin Huang], [Hujun Bao], Yiying Tong, Mathieu 
 
 [[doi]](https://dl.acm.org/doi/10.1145/2601097.2601179) [[pdf]](https://cims.nyu.edu/gcl/papers/frame-fields-2014.pdf) [[project]](https://igl.ethz.ch/projects/frame-fields/) [[code - libigl]](http://www.inf.ethz.ch/personal/dpanozzo/libigl_tutorial/506_FrameField/main.cpp):no_entry_sign:
 <!-- ----------------------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Fields-on-symmetric-surfaces.png" width="300"><td>
+
+**Fields on symmetric surfaces**
+
+[Daniele Panozzo], Yaron Lipman, [Enrico Puppo], [Denis Zorin]
+
+01 July 2012, TOG
+
+[[doi]](https://doi.org/10.1145/2185520.2185607) [[pdf]](https://cims.nyu.edu/gcl/papers/panozzo2012fss.pdf)
+<!-- ----------------------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/General-planar-quadrilateral-mesh-design-using-conjugate-direction-field.png" width="300"><td>
+
+**General planar quadrilateral mesh design using conjugate direction field**
+
+[Yang Liu], Weiwei Xu, Jun Wang, Lifeng Zhu, Baining Guo, Falai Chen, Guoping Wang
+
+12 December 2011, TOG
+
+[[doi]](https://doi.org/10.1145/2070781.2024174) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2070781.2024174)
+<!-- ----------------------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Boundary-aligned-smooth-3D-cross-frame-field.png" width="300"><td>
 
 **Boundary aligned smooth 3D cross-frame field**
@@ -72,6 +122,16 @@ Tengfei Jiang, [Xianzhong Fang], [Jin Huang], [Hujun Bao], Yiying Tong, Mathieu 
 12 December 2011, TOG
 
 [[doi]](https://doi.org/10.1145/2070781.2024177) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2070781.2024177) [[video]](http://www.cad.zju.edu.cn/home/hj/11/3D-cross-frame.avi) [[exe]](http://www.cad.zju.edu.cn/home/hj/11/SH-cross-frame-1607-JiongCHEN.7z)
+<!-- ----------------------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Interactive-Visualization-of-Rotational-Symmetry-Fields-on-Surfaces.png" width="300"><td>
+
+**Interactive Visualization of Rotational Symmetry Fields on Surfaces**
+
+Jonathan Palacios, Eugene Zhang
+
+23 September 2010, TVCG
+
+[[doi]](https://doi.org/10.1109/TVCG.2010.121)
 <!-- ----------------------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Geometry-aware-direction-field-processing.png" width="300"><td>
 
@@ -92,6 +152,16 @@ Tengfei Jiang, [Xianzhong Fang], [Jin Huang], [Hujun Bao], Yiying Tong, Mathieu 
 08 May 2008, TOG
 
 [[doi]](https://dl.acm.org/doi/abs/10.1145/1356682.1356683)
+<!-- ----------------------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Rotational-symmetry-field-design-on-surfaces.png" width="300"><td>
+
+**PRotational symmetry field design on surfaces**
+
+Jonathan Palacios, Eugene Zhang
+
+29 July 2007, TOG
+
+[[doi]](https://doi.org/10.1145/1276377.1276446)
 <!-- ----------------------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Periodic-global-parameterization.png" width="300"><td>
 
@@ -132,6 +202,16 @@ David Cohen-Steiner, Jean-Marie Morvan
 08 June 2003, SCG
 
 [[doi]](https://dl.acm.org/doi/abs/10.1145/777792.777839) [[pdf]](https://www.cs.jhu.edu/~misha/Fall09/Steiner03.pdf)
+<!-- ----------------------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Illustrating-smooth-surfaces.png" width="300"><td>
+
+**Illustrating smooth surfaces**
+
+Aaron Hertzmann, [Denis Zorin]
+
+01 July 2000, SIGGRAPH
+
+[[doi]](https://dl.acm.org/doi/10.1145/344779.345074) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/344779.345074) [[project page]](https://mrl.cs.nyu.edu/publications/illustrating-smooth/)
 </table>
 
 # :hammer: Other Projects
