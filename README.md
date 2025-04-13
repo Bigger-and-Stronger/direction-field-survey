@@ -11,6 +11,12 @@ The emoji :white_check_mark: after the `[code]` or `[exe]` indicates that this c
 
 # :page_with_curl: Papers
 
+<!-- 00000000000000000000000000000000000000000000000000000000000000000000000000000000000 -->
+<!-- 00000000000000000000000000000000000000000000000000000000000000000000000000000000000 -->
+<!-- 00000000000000000000000000000000000000000000000000000000000000000000000000000000000 -->
+
+## Cross Field
+
 <table>
 <!-- ----------------------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Anisotropy-and-Cross-Fields.png" width="300"><td>
@@ -23,15 +29,16 @@ L. Simons, N. Amenta
 
 [[doi]](https://onlinelibrary.wiley.com/doi/10.1111/cgf.15132)
 <!-- ----------------------------------------------------------------------------------- -->
-<tr><td><img title="image" src=".pic/Metric-Driven-3D-Frame-Field-Generation.png" width="300"><td>
+<tr><td><img title="image" src=".pic/Polygonal-Building-Extraction-by-Frame-Field-Learning.png" width="300"><td>
 
-**Metric-Driven 3D Frame Field Generation**
+**Polygonal Building Extraction by Frame Field Learning**
 
-[Xianzhong Fang], [Jin Huang], Yiying Tong, [Hujun Bao]
+Nicolas Girard, Dmitriy Smirnov, Justin Solomon, Yuliya Tarabalka
 
-17 December 2021, TVCG
+2021, CVPR
 
-[[doi]](https://ieeexplore.ieee.org/document/9655471) [[exe]](https://github.com/xianzhongfang/MetricDrivenFrame3D)
+[[doi]](https://openaccess.thecvf.com/content/CVPR2021/html/Girard_Polygonal_Building_Extraction_by_Frame_Field_Learning_CVPR_2021_paper.html) [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Girard_Polygonal_Building_Extraction_by_Frame_Field_Learning_CVPR_2021_paper.pdf) [[supp]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Girard_Polygonal_Building_Extraction_CVPR_2021_supplemental.pdf) [[code]](https://github.com/Lydorn/Polygonization-by-Frame-Field-Learning) 
+
 <!-- ----------------------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Octahedral-Frames-for-Feature-Aligned-Cross-Fields.png" width="300"><td>
 
@@ -53,16 +60,6 @@ Paul Zhang, Josh Vekhter, Edward Chien, [David Bommes], Etienne Vouga, Justin So
 
 [[doi]](https://doi.org/10.1145/3084873.3084921) [[pdf]](https://cims.nyu.edu/gcl/papers/DirectionalFieldsSTAR-2016.pdf) [[code]](https://github.com/avaxman/DirectionalFieldSynthesis)
 <!-- ----------------------------------------------------------------------------------- -->
-<tr><td><img title="image" src=".pic/Practical-3D-frame-field-generation.png" width="300"><td>
-
-**Practical 3D frame field generation**
-
-[Nicolas Ray], Dmitry Sokolov, [Bruno Lévy]
-
-05 December 2016, TOG
-
-[[doi]](https://dl.acm.org/doi/10.1145/2980179.2982408) [[code - in AlgoHex]](https://github.com/cgg-bern/AlgoHex) [[code - in Supplemental materials]](https://dl.acm.org/doi/suppl/10.1145/2980179.2982408/suppl_file/233-0220.zip):white_check_mark:
-<!-- ----------------------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Frame-field-generation-through-metric-customization.png" width="300"><td>
 
 **Frame field generation through metric customization**
@@ -81,7 +78,7 @@ Olga Diamanti, [Amir Vaxman], [Daniele Panozzo], [Olga Sorkine-Hornung]
 
 01 August 2014, CGF
 
-[[doi]](https://dl.acm.org/doi/10.5555/2771589.2771590) [[pdf]](https://cims.nyu.edu/gcl/papers/n-polyvector-fields.pdf) [[project page]](https://igl.ethz.ch/projects/complex-roots/) [[code]](https://igl.ethz.ch/projects/complex-roots/nPV.zip)
+[[doi]](https://dl.acm.org/doi/10.5555/2771589.2771590) [[pdf]](https://cims.nyu.edu/gcl/papers/n-polyvector-fields.pdf) [[project]](https://igl.ethz.ch/projects/complex-roots/) [[code]](https://igl.ethz.ch/projects/complex-roots/nPV.zip)
 <!-- ----------------------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Frame-fields-anisotropic-and-non-orthogonal-cross-fields.png" width="300"><td>
 
@@ -112,16 +109,6 @@ Olga Diamanti, [Amir Vaxman], [Daniele Panozzo], [Olga Sorkine-Hornung]
 12 December 2011, TOG
 
 [[doi]](https://doi.org/10.1145/2070781.2024174) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2070781.2024174)
-<!-- ----------------------------------------------------------------------------------- -->
-<tr><td><img title="image" src=".pic/Boundary-aligned-smooth-3D-cross-frame-field.png" width="300"><td>
-
-**Boundary aligned smooth 3D cross-frame field**
-
-[Jin Huang], Yiying Tong, Hongyu Wei, [Hujun Bao]
-
-12 December 2011, TOG
-
-[[doi]](https://doi.org/10.1145/2070781.2024177) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2070781.2024177) [[video]](http://www.cad.zju.edu.cn/home/hj/11/3D-cross-frame.avi) [[exe]](http://www.cad.zju.edu.cn/home/hj/11/SH-cross-frame-1607-JiongCHEN.7z)
 <!-- ----------------------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Interactive-Visualization-of-Rotational-Symmetry-Fields-on-Surfaces.png" width="300"><td>
 
@@ -211,10 +198,55 @@ Aaron Hertzmann, [Denis Zorin]
 
 01 July 2000, SIGGRAPH
 
-[[doi]](https://dl.acm.org/doi/10.1145/344779.345074) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/344779.345074) [[project page]](https://mrl.cs.nyu.edu/publications/illustrating-smooth/)
+[[doi]](https://dl.acm.org/doi/10.1145/344779.345074) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/344779.345074) [[project]](https://mrl.cs.nyu.edu/publications/illustrating-smooth/)
 </table>
 
+<!-- 00000000000000000000000000000000000000000000000000000000000000000000000000000000000 -->
+<!-- 00000000000000000000000000000000000000000000000000000000000000000000000000000000000 -->
+<!-- 00000000000000000000000000000000000000000000000000000000000000000000000000000000000 -->
+
+## Frame Field
+
+<table>
+<!-- ----------------------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Metric-Driven-3D-Frame-Field-Generation.png" width="300"><td>
+
+**Metric-Driven 3D Frame Field Generation**
+
+[Xianzhong Fang], [Jin Huang], Yiying Tong, [Hujun Bao]
+
+17 December 2021, TVCG
+
+[[doi]](https://ieeexplore.ieee.org/document/9655471) [[exe]](https://github.com/xianzhongfang/MetricDrivenFrame3D)
+<!-- ----------------------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Practical-3D-frame-field-generation.png" width="300"><td>
+
+**Practical 3D frame field generation**
+
+[Nicolas Ray], Dmitry Sokolov, [Bruno Lévy]
+
+05 December 2016, TOG
+
+[[doi]](https://dl.acm.org/doi/10.1145/2980179.2982408) [[code - in AlgoHex]](https://github.com/cgg-bern/AlgoHex) [[code - in supp]](https://dl.acm.org/doi/suppl/10.1145/2980179.2982408/suppl_file/233-0220.zip):white_check_mark:
+<!-- ----------------------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Boundary-aligned-smooth-3D-cross-frame-field.png" width="300"><td>
+
+**Boundary aligned smooth 3D cross-frame field**
+
+[Jin Huang], Yiying Tong, Hongyu Wei, [Hujun Bao]
+
+12 December 2011, TOG
+
+[[doi]](https://doi.org/10.1145/2070781.2024177) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2070781.2024177) [[video]](http://www.cad.zju.edu.cn/home/hj/11/3D-cross-frame.avi) [[exe]](http://www.cad.zju.edu.cn/home/hj/11/SH-cross-frame-1607-JiongCHEN.7z)
+</table>
+
+<!-- 00000000000000000000000000000000000000000000000000000000000000000000000000000000000 -->
+<!-- 00000000000000000000000000000000000000000000000000000000000000000000000000000000000 -->
+<!-- 00000000000000000000000000000000000000000000000000000000000000000000000000000000000 -->
+
 # :hammer: Other Projects
+
+- Directional - A Directional-Field Processing Library [[code]](https://github.com/avaxman/Directional) [[project]](https://avaxman.github.io/Directional/)
 
 # :floppy_disk: Softwares
 
