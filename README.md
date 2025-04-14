@@ -29,6 +29,15 @@ L. Simons, N. Amenta
 
 [[doi]](https://onlinelibrary.wiley.com/doi/10.1111/cgf.15132)
 <!-- ----------------------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Singularity-Free-Frame-Fields-for-Line-Drawing-Vectorization.png" width="300"><td>
+
+**Singularity-Free Frame Fields for Line Drawing Vectorization**
+
+10 August 2023, CGF (EG 2023, SGP 2023 Best Paper Award Honorable mention)
+
+[[doi]](https://doi.org/10.1111/cgf.14901) [[pdf]](https://olgagutan.com/wp-content/uploads/2023/11/singularityfreeff_paper_reducedsize.pdf) [[code]](https://github.com/SingularityFreeFrameFields/Code)
+
+<!-- ----------------------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Polygonal-Building-Extraction-by-Frame-Field-Learning.png" width="300"><td>
 
 **Polygonal Building Extraction by Frame Field Learning**
