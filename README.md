@@ -42,7 +42,7 @@ L. Simons, N. Amenta
 
 **Polygonal Building Extraction by Frame Field Learning**
 
-Nicolas Girard, Dmitriy Smirnov, Justin Solomon, Yuliya Tarabalka
+Nicolas Girard, Dmitriy Smirnov, [Justin Solomon], Yuliya Tarabalka
 
 2021, CVPR
 
@@ -53,7 +53,7 @@ Nicolas Girard, Dmitriy Smirnov, Justin Solomon, Yuliya Tarabalka
 
 **Octahedral Frames for Feature-Aligned Cross Fields**
 
-Paul Zhang, Josh Vekhter, Edward Chien, [David Bommes], Etienne Vouga, Justin Solomon
+Paul Zhang, Josh Vekhter, Edward Chien, [David Bommes], Etienne Vouga, [Justin Solomon]
 
 24 April 2020, TOG
 
@@ -218,6 +218,36 @@ Aaron Hertzmann, [Denis Zorin]
 
 <table>
 <!-- ----------------------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/A-complex-model-decomposition-algorithm-based-on-3D-frame-fields-and-features.png" width="300"><td>
+
+**A complex model decomposition algorithm based on 3D frame fields and features**
+
+Chengpeng Zhang, Zhihua Yu, Jimin Shi, Yu Li, Wenqiang Xu, Zheyi Guo, Hongshi Zhang, Zhongyuan Zhu, Sheng Qiang
+
+04 March 2024, Engineering Computations
+
+[[doi]](https://www.emerald.com/insight/content/doi/10.1108/ec-01-2023-0037/full/html)
+<!-- ----------------------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Locally-Meshable-Frame-Fields.png" width="300"><td>
+
+**Locally Meshable Frame Fields**
+
+Heng Liu, [David Bommes]
+
+26 July 2023, TOG
+
+[[doi]](https://doi.org/10.1145/3592457) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3592457) [[project]](https://www.algohex.eu/publications/locally-meshable-frame-fields/) [[code in AlgoHex]](https://github.com/cgg-bern/AlgoHex)
+<!-- ----------------------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Frame-Fields-for-CAD-Models.png" width="300"><td>
+
+**Frame Fields for CAD Models**
+
+David Desobry, François Protais, [Nicolas Ray], Etienne Corman, Dmitry Sokolov
+
+01 January 2022, Advances in Visual Computing
+
+[[doi]](https://link.springer.com/chapter/10.1007/978-3-030-90436-4_34) [[pdf]](https://inria.hal.science/hal-03537852/document)
+<!-- ----------------------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Metric-Driven-3D-Frame-Field-Generation.png" width="300"><td>
 
 **Metric-Driven 3D Frame Field Generation**
@@ -228,6 +258,36 @@ Aaron Hertzmann, [Denis Zorin]
 
 [[doi]](https://ieeexplore.ieee.org/document/9655471) [[exe]](https://github.com/xianzhongfang/MetricDrivenFrame3D)
 <!-- ----------------------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Frame-Field-Operators.png" width="300"><td>
+
+**Frame Field Operators**
+
+D. Palmer, O. Stein, [J. Solomon]
+
+23 August 2021, CGF (SGP)
+
+[[doi]](https://doi.org/10.1111/cgf.14370) [[code]](https://github.com/dpa1mer/ff-op)
+<!-- ----------------------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Algebraic-Representations-for-Volumetric-Frame-Fields.png" width="300"><td>
+
+**Algebraic Representations for Volumetric Frame Fields**
+
+David Palmer, [David Bommes], [Justin Solomon]
+
+05 April 2020, TOG
+
+[[doi]](https://dl.acm.org/doi/abs/10.1145/3366786) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3366786) [[code]](https://github.com/dpa1mer/arff)
+<!-- ----------------------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Multiple-Approaches-to-Frame-Field-Correction-for-CAD-Models.png" width="300"><td>
+
+**Multiple Approaches to Frame Field Correction for CAD Models**
+
+[Maxence Reberol], Alexandre Chemin, Jean-Francois Remacle
+
+9 Dec 2019, arXiv
+
+[[doi]](https://doi.org/10.48550/arXiv.1912.01248) [[pdf]](https://arxiv.org/pdf/1912.01248) [[slides]](https://mxncr.github.io/pdf/slides_imr28_ffcorrection.pdf) [[CAD models]](https://mxncr.github.io/data/ff_correction_models.zip)
+<!-- ----------------------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Practical-3D-frame-field-generation.png" width="300"><td>
 
 **Practical 3D frame field generation**
@@ -237,6 +297,26 @@ Aaron Hertzmann, [Denis Zorin]
 05 December 2016, TOG
 
 [[doi]](https://dl.acm.org/doi/10.1145/2980179.2982408) [[code - in AlgoHex]](https://github.com/cgg-bern/AlgoHex) [[code - in supp]](https://dl.acm.org/doi/suppl/10.1145/2980179.2982408/suppl_file/233-0220.zip):white_check_mark:
+<!-- ----------------------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Analysis-of-Non-Meshable-Automatically-Generated-Frame-Fields.png" width="300"><td>
+
+**Analysis of Non-Meshable Automatically Generated Frame Fields**
+
+Ryan Viertel, Matt Staten, Franck Ledoux
+
+1 September 2016
+
+[[doi]](https://www.sandia.gov/research/publications/details/analysis-of-non-meshable-automatically-generated-frame-fields-2016-09-01-1/) [[pdf]](https://www.osti.gov/servlets/purl/1375569)
+<!-- ----------------------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Frame-Field-Singularity-Correctionfor-Automatic-Hexahedralization.png" width="300"><td>
+
+**Frame Field Singularity Correctionfor Automatic Hexahedralization**
+
+Tengfei Jiang, [Jin Huang], Yuanzhen Wang, Yiying Tong, [Hujun Bao]
+
+04 November 2013, TVCG
+
+[[doi]](https://ieeexplore.ieee.org/abstract/document/6654167) [[pdf]](http://www.cad.zju.edu.cn/home/bao/pub/Frame_Field_Singularity_Correction_for_Automatic_Hexahedralization.pdf)
 <!-- ----------------------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Boundary-aligned-smooth-3D-cross-frame-field.png" width="300"><td>
 
@@ -252,6 +332,21 @@ Aaron Hertzmann, [Denis Zorin]
 <!-- 00000000000000000000000000000000000000000000000000000000000000000000000000000000000 -->
 <!-- 00000000000000000000000000000000000000000000000000000000000000000000000000000000000 -->
 <!-- 00000000000000000000000000000000000000000000000000000000000000000000000000000000000 -->
+
+# :movie_camera: Slides
+
+<table>
+<!-- ----------------------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Bringing-frame-fields-from-research-to-industrial-usage.png" width="300"><td>
+
+**Bringing frame fields from research to industrial usage**
+
+Franck Ledoux
+
+1-2 July 2019
+
+[[pdf]](https://www.hextreme.eu/frames2019/slides/slides_ledoux.pdf)
+</table>
 
 # :hammer: Other Projects
 
@@ -278,6 +373,8 @@ Aaron Hertzmann, [Denis Zorin]
 [Leif Kobbelt]: https://www.graphics.rwth-aachen.de/person/3/
 [L. Kobbelt]: https://www.graphics.rwth-aachen.de/person/3/
 [Jin Huang]: http://www.cad.zju.edu.cn/home/hj/index.xml
+[Justin Solomon]: https://people.csail.mit.edu/jsolomon/
+[J. Solomon]: https://people.csail.mit.edu/jsolomon/
 [Marcel Campen]: https://graphics.cs.uos.de/
 [M. Campen]: https://graphics.cs.uos.de/
 [Marco Livesu]: http://pers.ge.imati.cnr.it/livesu/
