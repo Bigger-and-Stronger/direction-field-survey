@@ -218,6 +218,16 @@ Aaron Hertzmann, [Denis Zorin]
 
 <table>
 <!-- ----------------------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Neural-Octahedral-Field-Octahedral-prior-for-simultaneous-smoothing-and-sharp-edge-regularization.png" width="300"><td>
+
+**Neural Octahedral Field: Octahedral prior for simultaneous smoothing and sharp edge regularization**
+
+Ruichen Zheng, Tao Yu
+
+1 August 2024, arXiv
+
+[[doi]](https://arxiv.org/abs/2408.00303) [[pdf]](https://arxiv.org/pdf/2408.00303) [[code]](https://github.com/Ankbzpx/frame-field)
+<!-- ----------------------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/A-complex-model-decomposition-algorithm-based-on-3D-frame-fields-and-features.png" width="300"><td>
 
 **A complex model decomposition algorithm based on 3D frame fields and features**
