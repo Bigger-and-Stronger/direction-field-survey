@@ -47,7 +47,16 @@ Nicolas Girard, Dmitriy Smirnov, [Justin Solomon], Yuliya Tarabalka
 2021, CVPR
 
 [[doi]](https://openaccess.thecvf.com/content/CVPR2021/html/Girard_Polygonal_Building_Extraction_by_Frame_Field_Learning_CVPR_2021_paper.html) [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Girard_Polygonal_Building_Extraction_by_Frame_Field_Learning_CVPR_2021_paper.pdf) [[supp]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Girard_Polygonal_Building_Extraction_CVPR_2021_supplemental.pdf) [[code]](https://github.com/Lydorn/Polygonization-by-Frame-Field-Learning) 
+<!-- ----------------------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Towards-untrimmed-NURBS-CAD-embedded-reparameterization-of-trimmed-B-rep-geometry-using-frame-field-guided-global-parameterization.png" width="300"><td>
 
+**Towards untrimmed NURBS: CAD embedded reparameterization of trimmed B-rep geometry using frame-field guided global parameterization**
+
+René R. Hiemstra, Kendrick M. Shepherd, Michael J. Johnson, Lulin Quan, Thomas J.R. Hughes
+
+1 September 2020, CMAME
+
+[[doi]](https://doi.org/10.1016/j.cma.2020.113227) 
 <!-- ----------------------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Octahedral-Frames-for-Feature-Aligned-Cross-Fields.png" width="300"><td>
 
@@ -78,6 +87,16 @@ Tengfei Jiang, [Xianzhong Fang], [Jin Huang], [Hujun Bao], Yiying Tong, Mathieu 
 27 July 2015, TOG
 
 [[doi]](https://dl.acm.org/doi/10.1145/2766927) [[pdf]](https://www.geometry.caltech.edu/pubs/JFHB+15.pdf) [[errata]](http://www.cad.zju.edu.cn/home/hj/15/metric/errata.pdf)
+<!-- ----------------------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Integrable-PolyVector-fields.png" width="300"><td>
+
+**Integrable PolyVector fields**
+
+Olga Diamanti, [Amir Vaxman], [Daniele Panozzo], [Olga Sorkine-Hornung]
+
+27 July 2015, TOG (SIGGRAPH 2015)
+
+[[doi]](https://doi.org/10.1145/2766906) [[pdf]](https://cims.nyu.edu/gcl/papers/integrable-polyvector-fields.pdf) [[project]](https://igl.ethz.ch/projects/integrable/)
 <!-- ----------------------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Designing-N-PolyVector-Fields-with-Complex-Polynomials.png" width="300"><td>
 
@@ -318,6 +337,26 @@ Ryan Viertel, Matt Staten, Franck Ledoux
 
 [[doi]](https://www.sandia.gov/research/publications/details/analysis-of-non-meshable-automatically-generated-frame-fields-2016-09-01-1/) [[pdf]](https://www.osti.gov/servlets/purl/1375569)
 <!-- ----------------------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Frame-field-smoothness-based-approach-for-hex-dominant-meshing.png" width="300"><td>
+
+**Frame field smoothness-based approach for hex-dominant meshing**
+
+P.-E. Bernard, J.-F. Remacle, N. Kowalski, C. Geuzaine
+
+March 2016, CAD
+
+[[doi]](https://doi.org/10.1016/j.cad.2015.10.003)
+<!-- ----------------------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Smoothness-driven-frame-field-generation-for-hexahedral-meshing.png" width="300"><td>
+
+**Smoothness driven frame field generation for hexahedral meshing**
+
+N. Kowalski, F. Ledoux, P. Frey
+
+March 2016, CAD
+
+[[doi]](https://doi.org/10.1016/j.cad.2015.06.009)
+<!-- ----------------------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Frame-Field-Singularity-Correctionfor-Automatic-Hexahedralization.png" width="300"><td>
 
 **Frame Field Singularity Correctionfor Automatic Hexahedralization**
@@ -360,7 +399,8 @@ Franck Ledoux
 
 # :hammer: Other Projects
 
-- Directional - A Directional-Field Processing Library [[code]](https://github.com/avaxman/Directional) [[project]](https://avaxman.github.io/Directional/)
+- Directional - A Directional-Field Processing Library [[project]](https://avaxman.github.io/Directional/) [[code]](https://github.com/avaxman/Directional):white_check_mark:
+- TinyAD - A C++ header-only library for second-order automatic differentiation [[frame field optimization]](https://github.com/patr-schm/TinyAD?tab=readme-ov-file#frame-field-optimization) [[project]](https://www.graphics.rwth-aachen.de/publication/03341/) [[code]](https://github.com/patr-schm/TinyAD) 
 
 # :floppy_disk: Softwares
 
