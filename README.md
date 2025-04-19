@@ -29,6 +29,16 @@ L. Simons, N. Amenta
 
 [[doi]](https://onlinelibrary.wiley.com/doi/10.1111/cgf.15132)
 <!-- ----------------------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Integrable-Frame-Fields-using-Odeco-Tensors.png" width="300"><td>
+
+**Integrable Frame Fields using Odeco Tensors**
+
+Mattéo Couplet, Alexandre Chemin, and Jean-François Remacle
+
+2024, International Meshing Roundtable (IMR)
+
+[[doi]](https://doi.org/10.1137/1.9781611978001.5)
+<!-- ----------------------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Singularity-Free-Frame-Fields-for-Line-Drawing-Vectorization.png" width="300"><td>
 
 **Singularity-Free Frame Fields for Line Drawing Vectorization**
