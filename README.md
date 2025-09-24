@@ -48,6 +48,17 @@ Olga Guţan, Shreya Hegde, Erick Jimenez Berumen, Mikhail Bessmeltsev, Edward Ch
 10 August 2023, CGF (EG 2023, SGP 2023 Best Paper Award Honorable mention)
 
 [[doi]](https://doi.org/10.1111/cgf.14901) [[pdf]](https://olgagutan.com/wp-content/uploads/2023/11/singularityfreeff_paper_reducedsize.pdf) [[code]](https://github.com/SingularityFreeFrameFields/Code)
+<!-- 
+----------------------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Frame-Fields-for-CAD-Models.png" width="300"><td>
+
+**Frame Fields for CAD Models**
+
+David Desobry, François Protais, [Nicolas Ray], Etienne Corman, Dmitry Sokolov
+
+01 January 2022, Advances in Visual Computing
+
+[[doi]](https://link.springer.com/chapter/10.1007/978-3-030-90436-4_34) [[pdf]](https://inria.hal.science/hal-03537852/document)
 <!-- ----------------------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Differentiable-surface-triangulation.png" width="300"><td>
 
@@ -288,16 +299,6 @@ Heng Liu, [David Bommes]
 
 [[doi]](https://doi.org/10.1145/3592457) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3592457) [[project]](https://www.algohex.eu/publications/locally-meshable-frame-fields/) [[code in AlgoHex]](https://github.com/cgg-bern/AlgoHex)
 <!-- ----------------------------------------------------------------------------------- -->
-<tr><td><img title="image" src=".pic/Frame-Fields-for-CAD-Models.png" width="300"><td>
-
-**Frame Fields for CAD Models**
-
-David Desobry, François Protais, [Nicolas Ray], Etienne Corman, Dmitry Sokolov
-
-01 January 2022, Advances in Visual Computing
-
-[[doi]](https://link.springer.com/chapter/10.1007/978-3-030-90436-4_34) [[pdf]](https://inria.hal.science/hal-03537852/document)
-<!-- ----------------------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Metric-Driven-3D-Frame-Field-Generation.png" width="300"><td>
 
 **Metric-Driven 3D Frame Field Generation**
@@ -337,6 +338,16 @@ David Palmer, [David Bommes], [Justin Solomon]
 9 Dec 2019, arXiv
 
 [[doi]](https://doi.org/10.48550/arXiv.1912.01248) [[pdf]](https://arxiv.org/pdf/1912.01248) [[slides]](https://mxncr.github.io/pdf/slides_imr28_ffcorrection.pdf) [[CAD models]](https://mxncr.github.io/data/ff_correction_models.zip)
+<!-- ----------------------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Singularity-constrained-octahedral-fields-for-hexahedral-meshing.png" width="300"><td>
+
+**Singularity-constrained octahedral fields for hexahedral meshing**
+
+Heng Liu, Paul Zhang, Edward Chien, [Justin Solomon], [David Bommes]
+
+30 July 2018, TOG
+
+[[doi]](https://dl.acm.org/doi/10.1145/3197517.3201344) [[slides]](https://slides.games-cn.org/pdf/GAMES201857%E5%88%98%E8%A1%A1.pdf) [[code]](https://gitlab.vci.rwth-aachen.de:9000/SCOF/SingularityConstrainedOctahedralFields)
 <!-- ----------------------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Practical-3D-frame-field-generation.png" width="300"><td>
 
