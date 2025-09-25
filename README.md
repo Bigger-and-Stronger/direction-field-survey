@@ -339,6 +339,16 @@ David Palmer, [David Bommes], [Justin Solomon]
 
 [[doi]](https://doi.org/10.48550/arXiv.1912.01248) [[pdf]](https://arxiv.org/pdf/1912.01248) [[slides]](https://mxncr.github.io/pdf/slides_imr28_ffcorrection.pdf) [[CAD models]](https://mxncr.github.io/data/ff_correction_models.zip)
 <!-- ----------------------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Symmetric-moving-frames.png" width="300"><td>
+
+**Symmetric moving frames**
+
+Etienne Corman, Keenan Crane
+
+12 July 2019, TOG
+
+[[doi]](https://dl.acm.org/doi/abs/10.1145/3306346.3323029) [[pdf]](https://par.nsf.gov/servlets/purl/10109860)
+<!-- ----------------------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Singularity-constrained-octahedral-fields-for-hexahedral-meshing.png" width="300"><td>
 
 **Singularity-constrained octahedral fields for hexahedral meshing**
@@ -348,6 +358,16 @@ Heng Liu, Paul Zhang, Edward Chien, [Justin Solomon], [David Bommes]
 30 July 2018, TOG
 
 [[doi]](https://dl.acm.org/doi/10.1145/3197517.3201344) [[slides]](https://slides.games-cn.org/pdf/GAMES201857%E5%88%98%E8%A1%A1.pdf) [[code]](https://gitlab.vci.rwth-aachen.de:9000/SCOF/SingularityConstrainedOctahedralFields)
+<!-- ----------------------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Boundary-Element-Octahedral-Fields-in-Volumes.png" width="300"><td>
+
+**Boundary Element Octahedral Fields in Volumes**
+
+[Justin Solomon], [Amir Vaxman], [David Bommes]
+
+16 July 2017, TOG
+
+[[doi]](https://dl.acm.org/doi/abs/10.1145/3072959.3065254) [[pdf]](https://dspace.library.uu.nl/bitstream/handle/1874/360473/Boundary.pdf?sequence=1)
 <!-- ----------------------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Practical-3D-frame-field-generation.png" width="300"><td>
 
@@ -365,7 +385,7 @@ Heng Liu, Paul Zhang, Edward Chien, [Justin Solomon], [David Bommes]
 
 Ryan Viertel, Matt Staten, Franck Ledoux
 
-1 September 2016
+1 September 2016, 25th International Meshing Roundtable
 
 [[doi]](https://www.sandia.gov/research/publications/details/analysis-of-non-meshable-automatically-generated-frame-fields-2016-09-01-1/) [[pdf]](https://www.osti.gov/servlets/purl/1375569)
 <!-- ----------------------------------------------------------------------------------- -->
