@@ -150,6 +150,16 @@ Olga Diamanti, [Amir Vaxman], [Daniele Panozzo], [Olga Sorkine-Hornung]
 
 [[doi]](https://dl.acm.org/doi/10.1145/2601097.2601179) [[pdf]](https://cims.nyu.edu/gcl/papers/frame-fields-2014.pdf) [[project]](https://igl.ethz.ch/projects/frame-fields/) [[code - libigl]](http://www.inf.ethz.ch/personal/dpanozzo/libigl_tutorial/506_FrameField/main.cpp):no_entry_sign:
 <!-- ----------------------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Globally-optimal-direction-fields.png" width="300"><td>
+
+**Globally optimal direction fields**
+
+Felix Knöppel, Keenan Crane, Ulrich Pinkall, Peter Schröder
+
+21 July 2013, TOG
+
+[[doi]](https://dl.acm.org/doi/10.1145/2461912.2462005) [[code]](https://github.com/GeometryCollective/fieldgen)
+<!-- ----------------------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Fields-on-symmetric-surfaces.png" width="300"><td>
 
 **Fields on symmetric surfaces**
