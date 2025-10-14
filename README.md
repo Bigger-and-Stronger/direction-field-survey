@@ -269,6 +269,16 @@ Aaron Hertzmann, [Denis Zorin]
 
 <table>
 <!-- ----------------------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Designing-3D-Anisotropic-Frame-Fields-with-Odeco-Tensors.png" width="300"><td>
+
+**Designing 3D Anisotropic Frame Fields with Odeco Tensors**
+
+Haikuan Zhu, Hongbo Li, Hsueh-Ti Derek Liu, [Wenping Wang], Jing Hua, Zichun Zhong
+
+27 July 2025, TOG
+
+[[doi]](https://dl.acm.org/doi/10.1145/3731181) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3731181) [[code]](https://github.com/Ankbzpx/frame-field)
+<!-- ----------------------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Neural-Octahedral-Field-Octahedral-prior-for-simultaneous-smoothing-and-sharp-edge-regularization.png" width="300"><td>
 
 **Neural Octahedral Field: Octahedral prior for simultaneous smoothing and sharp edge regularization**
