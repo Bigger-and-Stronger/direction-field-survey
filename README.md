@@ -110,6 +110,16 @@ Paul Zhang, Josh Vekhter, Edward Chien, [David Bommes], Etienne Vouga, [Justin S
 
 [[doi]](https://doi.org/10.1145/3084873.3084921) [[pdf]](https://cims.nyu.edu/gcl/papers/DirectionalFieldsSTAR-2016.pdf) [[code]](https://github.com/avaxman/DirectionalFieldSynthesis)
 <!-- ----------------------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Consistent-functional-cross-field-design-for-mesh-quadrangulation.png" width="300"><td>
+
+**Consistent functional cross field design for mesh quadrangulation**
+
+Omri Azencot, Etienne Corman, Mirela Ben-Chen, Maks Ovsjanikov
+
+20 July 2017, TOG
+
+[[doi]](https://dl.acm.org/doi/10.1145/3072959.3073696)
+<!-- ----------------------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Frame-field-generation-through-metric-customization.png" width="300"><td>
 
 **Frame field generation through metric customization**
