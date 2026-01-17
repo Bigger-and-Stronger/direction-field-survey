@@ -297,7 +297,7 @@ Haikuan Zhu, Hongbo Li, Hsueh-Ti Derek Liu, [Wenping Wang], Jing Hua, Zichun Zho
 
 27 July 2025, TOG
 
-[[doi]](https://dl.acm.org/doi/10.1145/3731181) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3731181) [[code]](https://github.com/Ankbzpx/frame-field)
+[[doi]](https://dl.acm.org/doi/10.1145/3731181) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3731181)
 <!-- ----------------------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Neural-Octahedral-Field-Octahedral-prior-for-simultaneous-smoothing-and-sharp-edge-regularization.png" width="300"><td>
 
@@ -529,4 +529,5 @@ Franck Ledoux
 [Xianzhong Fang]: https://xzfang.top/
 [Xingyi Du]: https://duxingyi-charles.github.io/
 [Yang Liu]: https://xueyuhanlang.github.io/
+
 [Yu-Kun Lai]: https://users.cs.cf.ac.uk/Yukun.Lai/
