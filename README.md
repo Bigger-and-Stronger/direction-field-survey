@@ -120,6 +120,16 @@ Paul Zhang, Josh Vekhter, Edward Chien, [David Bommes], Etienne Vouga, [Justin S
 
 [[doi]](https://doi.org/10.1145/3084873.3084921) [[pdf]](https://cims.nyu.edu/gcl/papers/DirectionalFieldsSTAR-2016.pdf) [[code]](https://github.com/avaxman/DirectionalFieldSynthesis)
 <!-- ----------------------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Consistent-functional-cross-field-design-for-mesh-quadrangulation.png" width="300"><td>
+
+**Consistent functional cross field design for mesh quadrangulation**
+
+Omri Azencot, Etienne Corman, Mirela Ben-Chen, Maks Ovsjanikov
+
+20 July 2017, TOG
+
+[[doi]](https://dl.acm.org/doi/10.1145/3072959.3073696)
+<!-- ----------------------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Frame-field-generation-through-metric-customization.png" width="300"><td>
 
 **Frame field generation through metric customization**
@@ -307,7 +317,7 @@ Haikuan Zhu, Hongbo Li, Hsueh-Ti Derek Liu, [Wenping Wang], Jing Hua, Zichun Zho
 
 27 July 2025, TOG
 
-[[doi]](https://dl.acm.org/doi/10.1145/3731181) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3731181) [[code]](https://github.com/Ankbzpx/frame-field)
+[[doi]](https://dl.acm.org/doi/10.1145/3731181) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3731181)
 <!-- ----------------------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/A-complex-model-decomposition-algorithm-based-on-3D-frame-fields-and-features.png" width="300"><td>
 
@@ -529,4 +539,5 @@ Franck Ledoux
 [Xianzhong Fang]: https://xzfang.top/
 [Xingyi Du]: https://duxingyi-charles.github.io/
 [Yang Liu]: https://xueyuhanlang.github.io/
+
 [Yu-Kun Lai]: https://users.cs.cf.ac.uk/Yukun.Lai/
