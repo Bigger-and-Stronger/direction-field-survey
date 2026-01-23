@@ -19,6 +19,16 @@ The emoji :white_check_mark: after the `[code]` or `[exe]` indicates that this c
 
 <table>
 <!-- ----------------------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/NeurCross-A-Neural-Approach-to-Computing-Cross-Fields-for-Quad-Mesh-Generation.png" width="300"><td>
+
+**NeurCross: A Neural Approach to Computing Cross Fields for Quad Mesh Generation**
+
+Qiujie Dong, Huibiao Wen, Rui Xu, Shuangmin Chen, Jiaran Zhou, Shiqing Xin, Changhe Tu, Taku Komura, [Wenping Wang]
+
+27 July 2025, TOG
+
+[[doi]](https://dl.acm.org/doi/10.1145/3731159) [[project]](https://qiujiedong.github.io/publications/NeurCross/) [[code]](https://github.com/QiujieDong/NeurCross)
+<!-- ----------------------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Anisotropy-and-Cross-Fields.png" width="300"><td>
 
 **Anisotropy and Cross Fields**
@@ -279,6 +289,16 @@ Aaron Hertzmann, [Denis Zorin]
 
 <table>
 <!-- ----------------------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Neural-Octahedral-Field-Octahedral-prior-for-simultaneous-smoothing-and-sharp-edge-regularization.png" width="300"><td>
+
+**Neural Octahedral Field: Octahedral Prior for Simultaneous Smoothing and Sharp Edge Regularization**
+
+Ruichen Zheng, Tao Yu, Ruizhen Hu
+
+04 December 2025, TOG
+
+[[doi]](https://dl.acm.org/doi/10.1145/3763362) [[code]](https://github.com/Ankbzpx/frame-field)
+<!-- ----------------------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Designing-3D-Anisotropic-Frame-Fields-with-Odeco-Tensors.png" width="300"><td>
 
 **Designing 3D Anisotropic Frame Fields with Odeco Tensors**
@@ -288,16 +308,6 @@ Haikuan Zhu, Hongbo Li, Hsueh-Ti Derek Liu, [Wenping Wang], Jing Hua, Zichun Zho
 27 July 2025, TOG
 
 [[doi]](https://dl.acm.org/doi/10.1145/3731181) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3731181) [[code]](https://github.com/Ankbzpx/frame-field)
-<!-- ----------------------------------------------------------------------------------- -->
-<tr><td><img title="image" src=".pic/Neural-Octahedral-Field-Octahedral-prior-for-simultaneous-smoothing-and-sharp-edge-regularization.png" width="300"><td>
-
-**Neural Octahedral Field: Octahedral prior for simultaneous smoothing and sharp edge regularization**
-
-Ruichen Zheng, Tao Yu
-
-1 August 2024, arXiv
-
-[[doi]](https://arxiv.org/abs/2408.00303) [[pdf]](https://arxiv.org/pdf/2408.00303) [[code]](https://github.com/Ankbzpx/frame-field)
 <!-- ----------------------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/A-complex-model-decomposition-algorithm-based-on-3D-frame-fields-and-features.png" width="300"><td>
 
