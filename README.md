@@ -19,11 +19,41 @@ The emoji :white_check_mark: after the `[code]` or `[exe]` indicates that this c
 
 <table>
 <!-- ----------------------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/TopGen-Learning-Structural-Layouts-and-Cross-Fields-for-Quadrilateral-Mesh-Generation.png" width="300"><td>
+
+**TopGen: Learning Structural Layouts and Cross-Fields for Quadrilateral Mesh Generation**
+
+Yuguang Chen, Xinhai Liu, Xiangyu Zhu, Yiling Zhu, Zhuo Chen, Dongyu Zhang, Chunchao Guo
+
+11 March 2026, TOG
+
+[[doi]](https://arxiv.org/abs/2603.10606)
+<!-- ----------------------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Learning-Sparse-Singularities-for-Cross-Field-Design.png" width="300"><td>
+
+**Learning Sparse Singularities for Cross Field Design**
+
+Xiaohu Zhang, [Hujun Bao], [Jin Huang]
+
+09 March 2026, TOG
+
+[[doi]](https://dl.acm.org/doi/abs/10.1145/3787520)
+<!-- ----------------------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/CrossGen-Learning-and-Generating-Cross-Fields-for-Quad-Meshing.png" width="300"><td>
+
+**CrossGen: Learning and Generating Cross Fields for Quad Meshing**
+
+[Qiujie Dong], Jiepeng Wang, [Rui Xu], Cheng Lin, Yuan Liu, [Shiqing Xin], Zichun Zhong, Xin Li, Changhe Tu, Taku Komura, Leif Kobbelt, Scott Schaefer, [Wenping Wang]
+
+04 December 2025, TOG
+
+[[doi]](https://dl.acm.org/doi/abs/10.1145/3763299) [[project]](https://qiujiedong.github.io/publications/CrossGen/) [[code]](https://github.com/QiujieDong/CrossGen)
+<!-- ----------------------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/NeurCross-A-Neural-Approach-to-Computing-Cross-Fields-for-Quad-Mesh-Generation.png" width="300"><td>
 
 **NeurCross: A Neural Approach to Computing Cross Fields for Quad Mesh Generation**
 
-Qiujie Dong, Huibiao Wen, Rui Xu, Shuangmin Chen, Jiaran Zhou, Shiqing Xin, Changhe Tu, Taku Komura, [Wenping Wang]
+[Qiujie Dong], Huibiao Wen, [Rui Xu], Shuangmin Chen, Jiaran Zhou, [Shiqing Xin], Changhe Tu, Taku Komura, [Wenping Wang]
 
 27 July 2025, TOG
 
@@ -468,11 +498,27 @@ Tengfei Jiang, [Jin Huang], Yuanzhen Wang, Yiying Tong, [Hujun Bao]
 12 December 2011, TOG
 
 [[doi]](https://doi.org/10.1145/2070781.2024177) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2070781.2024177) [[video]](http://www.cad.zju.edu.cn/home/hj/11/3D-cross-frame.avi) [[exe]](http://www.cad.zju.edu.cn/home/hj/11/SH-cross-frame-1607-JiongCHEN.7z)
+<!-- ----------------------------------------------------------------------------------- -->
 </table>
 
 <!-- 00000000000000000000000000000000000000000000000000000000000000000000000000000000000 -->
 <!-- 00000000000000000000000000000000000000000000000000000000000000000000000000000000000 -->
 <!-- 00000000000000000000000000000000000000000000000000000000000000000000000000000000000 -->
+
+## Continuous
+<table>
+<!-- ----------------------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Power-Linear-Polar-Directional-Fields.png" width="300"><td>
+
+**Power-Linear Polar Directional Fields**
+
+Jiabao Brad Wang, [Amir Vaxman]
+
+27 July 2025, SIGGRAPH
+
+[[doi]](https://dl.acm.org/doi/full/10.1145/3721238.3730591)
+<!-- ----------------------------------------------------------------------------------- -->
+</table>
 
 # :movie_camera: Slides
 
@@ -531,8 +577,11 @@ Franck Ledoux
 [Olga Sorkine-Hornung]: https://igl.ethz.ch/people/sorkine/
 [Paolo Cignoni]: https://vcg.isti.cnr.it/~cignoni/
 [Patrick Schmidt]: https://patr-schm.github.io/
+[Qiujie Dong]: https://qiujiedong.github.io
 [Riccardo Scateni]: https://web.unica.it/unica/page/it/riccardo_scateni
+[Rui Xu]: https://ruixu.me/
 [Shi-Min Hu]: https://cg.cs.tsinghua.edu.cn/shimin.htm
+[Shiqing Xin]: https://irc.cs.sdu.edu.cn/~shiqing/index.html
 [Stefano Nuvoli]: https://github.com/stefanonuvoli
 [Wenping Wang]: https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html
 [Xianfeng Gu]: https://www3.cs.stonybrook.edu/~gu/
