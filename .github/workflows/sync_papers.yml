@@ -63,5 +63,9 @@ jobs:
           git add extracted_papers.json
           git add .pic/
           
+          # 获取当前时间（格式示例: 2023-10-27 10:00:00）
+          # 如果想指定时区，可以使用 TZ="Asia/Shanghai" date
+          CURRENT_TIME=$(TZ="Asia/Shanghai" date '+%Y-%m-%d %H:%M:%S')
+          
           # 只有存在变动时才 Commit，避免 Action 报错
-          git diff --quiet && git diff --staged --quiet || (git commit -m "docs: auto-update paper notes in README" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "docs: auto-update paper notes at $CURRENT_TIME" && git push)
