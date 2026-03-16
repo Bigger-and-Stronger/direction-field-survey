@@ -16,12 +16,18 @@ jobs:
       - name: Checkout Current Repo
         uses: actions/checkout@v4
 
+      - name: Checkout Generate Repo
+        uses: actions/checkout@v4
+        with:
+          repository: Canjia-Huang/auto-survey-generation
+          path: auto-survey-generation
+
       - name: Checkout Private Repo
         uses: actions/checkout@v4
         with:
-          repository: Canjia-Huang/obsidian-backup
+          repository: ${{ secrets.PRIVATE_REPO_NAME }}
           token: ${{ secrets.PAT_TOKEN }}
-          path: obsidian-backup
+          path: obsidian
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -40,7 +46,7 @@ jobs:
 
       - name: Run Extraction Script
         run: |
-          cd python
+          cd auto-survey-generation/python
           python parse_papers.py
 
       # (可选) 将生成的 JSON 作为附件上传，方便单独下载
