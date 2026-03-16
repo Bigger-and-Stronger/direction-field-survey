@@ -41,7 +41,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          cd python
+          cd auto-survey-generation/python
           pip install -r requirements.txt
 
       - name: Run Extraction Script
