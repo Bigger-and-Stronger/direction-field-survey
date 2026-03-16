@@ -28,6 +28,9 @@ jobs:
         with:
           python-version: '3.10'
 
+      - name: Debug file structure
+        run: ls -R  # 这会打印出当前仓库的所有文件，方便你确认路径
+
       - name: Install dependencies
         run: |
           cd python
