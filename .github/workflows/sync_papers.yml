@@ -9,21 +9,16 @@ permissions:
   contents: write # 必须：允许Action修改并推送代码到当前仓库
 
 jobs:
-  extract-and-store:
+  sync-and-update:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Current Repo
-        uses: actions/checkout@v4
-        with:
-          path: main_repo
-
       - name: Checkout Private Repo
         uses: actions/checkout@v4
         with:
           repository: Canjia-Huang/obsidian-backup
           token: ${{ secrets.PAT_TOKEN }}
-          path: main_repo/obsidian-backup
+          path: obsidian-backup
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -32,12 +27,12 @@ jobs:
 
       - name: Install dependencies
         run: |
-          cd main_repo/python
+          cd python
           pip install -r requirements.txt
 
       - name: Run Extraction Script
         run: |
-          cd main_repo/python
+          cd python
           python parse_papers.py
 
       # (可选) 将生成的 JSON 作为附件上传，方便单独下载
@@ -45,13 +40,11 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: extracted-papers-data
-          path: main_repo/extracted_papers.json
+          path: extracted_papers.json
 
       # 提交变动（包括 .pic/ 和 README.md）到当前 GitHub 仓库
       - name: Commit and Push changes
         run: |
-          cd main_repo
-          
           # 清理私有仓库，防止它作为子模块或冗余文件被提交
           rm -rf obsidian-backup 
           
