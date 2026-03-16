@@ -178,7 +178,7 @@ def generate_readme(data):
 
         # 处理右栏：信息
         title = f"**{bib.get('title', 'Unknown Title')}**"
-        author = bib.get('author', 'Unknown Author')
+        author = f"*{bib.get('author', 'Unknown Author')}*"
 
         # 将 tags 列表转化为 `tag0`, `tag1` ... 的格式
         tags_list = props.get('tags', [])
@@ -199,7 +199,7 @@ def generate_readme(data):
         links_str = " &nbsp; ".join(links)
 
         # 拼接表格行 (<br>换行)
-        info_md = f"{title}<br>{author}<br>{date_venue}<br><br>tags: {tags_str}<br>{links_str}"
+        info_md = f"{title}<br>{author}<br>{date_venue}<br>tags: {tags_str}<br>{links_str}"
         lines.append(f"| {pic_md} | {info_md} |")
 
     with open(README_PATH, 'w', encoding='utf-8') as f:
