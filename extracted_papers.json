@@ -30,9 +30,7 @@
                 "survey"
             ],
             "teaser": "Pasted image 20260130231156.png",
-            "code": [
-                "https://github.com/avaxman/DirectionalFieldSynthesis"
-            ],
+            "code": "https://github.com/avaxman/DirectionalFieldSynthesis",
             "project": "",
             "slide": "",
             "supplemental": ""
@@ -107,9 +105,7 @@
                 "directional"
             ],
             "teaser": "Pasted image 20260315223145.png",
-            "code": [
-                "https://github.com/dpa1mer/ff-op"
-            ],
+            "code": "https://github.com/dpa1mer/ff-op",
             "project": "",
             "slide": "",
             "supplemental": ""
@@ -203,9 +199,7 @@
                 "directional"
             ],
             "teaser": "Pasted image 20251023214957.png",
-            "code": [
-                "https://github.com/GeometryCollective/fieldgen"
-            ],
+            "code": "https://github.com/GeometryCollective/fieldgen",
             "project": "",
             "slide": "",
             "supplemental": ""
@@ -230,9 +224,7 @@
                 "frame_field"
             ],
             "teaser": "Pasted image 20250818104813.png",
-            "code": [
-                "http://www.cad.zju.edu.cn/home/hj/11/SH-cross-frame-1607-JiongCHEN.7z https://kenshi84.github.io/misc/frame3d.zip"
-            ],
+            "code": "http://www.cad.zju.edu.cn/home/hj/11/SH-cross-frame-1607-JiongCHEN.7z https://kenshi84.github.io/misc/frame3d.zip",
             "project": "",
             "slide": "https://kenshi84.github.io/misc/3d-frame-field-mcg15-1st.pdf",
             "supplemental": ""
@@ -424,9 +416,7 @@
                 "neural"
             ],
             "teaser": "Pasted image 20260227154122.png",
-            "code": [
-                "https://github.com/gaoalexander/vector-heat-net"
-            ],
+            "code": "https://github.com/gaoalexander/vector-heat-net",
             "project": "https://www.alexandergao.com/vector-heat-network/",
             "slide": "",
             "supplemental": ""
@@ -567,9 +557,7 @@
                 "neural"
             ],
             "teaser": "Pasted image 20260221121531.png",
-            "code": [
-                "https://github.com/Ankbzpx/frame-field"
-            ],
+            "code": "https://github.com/Ankbzpx/frame-field",
             "project": "",
             "slide": "",
             "supplemental": ""
@@ -616,9 +604,7 @@
                 "directional"
             ],
             "teaser": "Pasted image 20260315223326.png",
-            "code": [
-                "https://github.com/Lydorn/Polygonization-by-Frame-Field-Learning"
-            ],
+            "code": "https://github.com/Lydorn/Polygonization-by-Frame-Field-Learning",
             "project": "",
             "slide": "",
             "supplemental": "https://openaccess.thecvf.com/content/CVPR2021/supplemental/Girard_Polygonal_Building_Extraction_CVPR_2021_supplemental.pdf"
@@ -838,9 +824,7 @@
                 "anisotropy"
             ],
             "teaser": "Pasted image 20260304172308.png",
-            "code": [
-                "http://www.inf.ethz.ch/personal/dpanozzo/libigl_tutorial/506_FrameField/main.cpp"
-            ],
+            "code": "http://www.inf.ethz.ch/personal/dpanozzo/libigl_tutorial/506_FrameField/main.cpp",
             "project": "https://igl.ethz.ch/projects/frame-fields/",
             "slide": "",
             "supplemental": ""
@@ -1005,9 +989,7 @@
                 "directional"
             ],
             "teaser": "Pasted image 20260226165031.png",
-            "code": [
-                "https://igl.ethz.ch/projects/complex-roots/nPV.zip"
-            ],
+            "code": "https://igl.ethz.ch/projects/complex-roots/nPV.zip",
             "project": "https://igl.ethz.ch/projects/complex-roots/",
             "slide": "",
             "supplemental": ""
@@ -1031,9 +1013,7 @@
                 "frame_field"
             ],
             "teaser": "Pasted image 20260315223557.png",
-            "code": [
-                "https://dl.acm.org/doi/suppl/10.1145/2980179.2982408/suppl_file/233-0220.zip"
-            ],
+            "code": "https://dl.acm.org/doi/suppl/10.1145/2980179.2982408/suppl_file/233-0220.zip",
             "project": "",
             "slide": "",
             "supplemental": ""
@@ -1201,9 +1181,7 @@
                 "heat_method"
             ],
             "teaser": "Pasted image 20260227153854.png",
-            "code": [
-                "https://github.com/milmillin/d4descent"
-            ],
+            "code": "https://github.com/milmillin/d4descent",
             "project": "https://www.yousufsoliman.com/projects/the-affine-heat-method.html",
             "slide": "",
             "supplemental": ""
@@ -1300,9 +1278,7 @@
                 "neural"
             ],
             "teaser": "Pasted image 20260130195338.png",
-            "code": [
-                "https://github.com/QiujieDong/NeurCross"
-            ],
+            "code": "https://github.com/QiujieDong/NeurCross",
             "project": "",
             "slide": "",
             "supplemental": ""
@@ -1397,9 +1373,7 @@
                 "triangulate"
             ],
             "teaser": "Pasted image 20260315223018.png",
-            "code": [
-                "https://github.com/mrakotosaon/diff-surface-triangulation"
-            ],
+            "code": "https://github.com/mrakotosaon/diff-surface-triangulation",
             "project": "",
             "slide": "",
             "supplemental": ""
@@ -1423,9 +1397,7 @@
                 "frame_field"
             ],
             "teaser": "Pasted image 20251003160358.png",
-            "code": [
-                "https://github.com/dpa1mer/arff"
-            ],
+            "code": "https://github.com/dpa1mer/arff",
             "project": "",
             "slide": "",
             "supplemental": ""
@@ -1450,9 +1422,7 @@
                 "frame_field"
             ],
             "teaser": "Pasted image 20250805235803.png",
-            "code": [
-                "https://gitlab.vci.rwth-aachen.de:9000/SCOF/SingularityConstrainedOctahedralFields"
-            ],
+            "code": "https://gitlab.vci.rwth-aachen.de:9000/SCOF/SingularityConstrainedOctahedralFields",
             "project": "",
             "slide": "https://slides.games-cn.org/pdf/GAMES201857%E5%88%98%E8%A1%A1.pdf",
             "supplemental": ""
@@ -1596,9 +1566,7 @@
                 "frame_field"
             ],
             "teaser": "Pasted image 20251002121657.png",
-            "code": [
-                "https://github.com/xianzhongfang/MetricDrivenFrame3D"
-            ],
+            "code": "https://github.com/xianzhongfang/MetricDrivenFrame3D",
             "project": "",
             "slide": "",
             "supplemental": ""
@@ -1646,9 +1614,7 @@
                 "neural"
             ],
             "teaser": "Pasted image 20260130195434.png",
-            "code": [
-                "https://github.com/QiujieDong/CrossGen"
-            ],
+            "code": "https://github.com/QiujieDong/CrossGen",
             "project": "",
             "slide": "",
             "supplemental": ""
@@ -1695,9 +1661,7 @@
                 "directional"
             ],
             "teaser": "Pasted image 20260315234055.png",
-            "code": [
-                "https://github.com/NYUGP17/SmoothFeatureLinesonSurfaceMeshes https://github.com/Bushite/Smooth-Feature-Lines-Extraction"
-            ],
+            "code": "https://github.com/NYUGP17/SmoothFeatureLinesonSurfaceMeshes",
             "project": "",
             "slide": "",
             "supplemental": ""
@@ -1795,9 +1759,7 @@
                 "directional"
             ],
             "teaser": "Pasted image 20260315222843.png",
-            "code": [
-                "https://github.com/SingularityFreeFrameFields/Code"
-            ],
+            "code": "https://github.com/SingularityFreeFrameFields/Code",
             "project": "",
             "slide": "",
             "supplemental": ""
