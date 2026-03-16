@@ -133,7 +133,7 @@ def process_md_files():
                     dest_pic = PIC_DEST_DIR / dest_pic_name
 
                     if crop_and_save_image(src_pic, dest_pic):
-                        pic_dest_rel_path = f"{dest_pic}"
+                        pic_dest_rel_path = f".img/{dest_pic_name}"
 
             paper_info = {
                 "filename": md_file.name,
