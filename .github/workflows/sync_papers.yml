@@ -61,7 +61,7 @@ jobs:
           
           git add README.md
           git add extracted_papers.json
-          git add .pic/
+          git add .img/
           
           # 获取当前时间（格式示例: 2023-10-27 10:00:00）
           # 如果想指定时区，可以使用 TZ="Asia/Shanghai" date

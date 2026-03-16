@@ -11,8 +11,8 @@ SCRIPT_DIR = Path(__file__).resolve().parent
 ROOT_DIR = SCRIPT_DIR.parent
 REPO_PATH = ROOT_DIR / "obsidian-backup"
 PAPERS_DIR = REPO_PATH / "PaperNote" / "papers"
-PIC_SRC_DIR = REPO_PATH / "PaperNote" / "_pic"
-PIC_DEST_DIR = ROOT_DIR / ".pic"
+PIC_SRC_DIR = REPO_PATH / "PaperNote" / "_img"
+PIC_DEST_DIR = ROOT_DIR / ".img"
 README_PATH = ROOT_DIR / "README.md"
 JSON_OUTPUT = ROOT_DIR / "extracted_papers.json"
 
@@ -133,7 +133,7 @@ def process_md_files():
                     dest_pic = PIC_DEST_DIR / dest_pic_name
 
                     if crop_and_save_image(src_pic, dest_pic):
-                        pic_dest_rel_path = f".pic/{dest_pic_name}"
+                        pic_dest_rel_path = f"{dest_pic}"
 
             paper_info = {
                 "filename": md_file.name,
