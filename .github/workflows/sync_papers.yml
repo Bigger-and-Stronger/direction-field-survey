@@ -28,6 +28,9 @@ jobs:
         with:
           python-version: '3.10'
 
+      - name: List Files
+        run: ls -R  # 递归列出所有文件
+
       - name: Install dependencies
         run: |
           cd python

@@ -16,14 +16,8 @@ PIC_DEST_DIR = ROOT_DIR / ".pic"
 README_PATH = ROOT_DIR / "README.md"
 JSON_OUTPUT = ROOT_DIR / "extracted_papers.json"
 
-print("SCRIPT_DIR: {}", SCRIPT_DIR)
-print("ROOT_DIR: {}", ROOT_DIR)
-print("REPO_PATH: {}", REPO_PATH)
-print("PAPERS_DIR: {}", PAPERS_DIR)
-print("PIC_SRC_DIR: {}", PIC_SRC_DIR)
-print("PIC_DEST_DIR: {}", PIC_DEST_DIR)
-print("README_PATH: {}", README_PATH)
-print("JSON_OUTPUT: {}", JSON_OUTPUT)
+print("SCRIPT_DIR: ", SCRIPT_DIR)
+print("ROOT_DIR: ", ROOT_DIR)
 
 
 def clean_bibtex_string(s):
