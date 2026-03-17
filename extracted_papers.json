@@ -62,7 +62,7 @@
             "project": "",
             "slide": "",
             "supplemental": "",
-            "bibtex": "@misc{yu2026neurframelearningcontinuousframe,\n      title={NeurFrame: Learning Continuous Frame Fields for Structured Mesh Generation}, \n      author={Xiaoyang Yu and Canjia Huang and Zhonggui Chen and Juan Cao},\n      year={2026},\n      eprint={2603.12820},\n      archivePrefix={arXiv},\n      primaryClass={cs.GR},\n      url={https://arxiv.org/abs/2603.12820}, \n}"
+            "bibtex": "@misc{yu2026neurframelearningcontinuousframe,\n      title={NeurFrame: Learning Continuous Frame Fields for Structured Mesh Generation}, \n      author={Xiaoyang Yu and Canjia Huang and Zhonggui Chen and Juan Cao},\n      year={2026},\n      month={mar},\n      eprint={2603.12820},\n      archivePrefix={arXiv},\n      primaryClass={cs.GR},\n      url={https://arxiv.org/abs/2603.12820}, \n}"
         },
         "bibtex_parsed": {
             "title": "NeurFrame: Learning Continuous Frame Fields for Structured Mesh Generation",
@@ -70,7 +70,7 @@
             "venue": "",
             "doi_url": "https://arxiv.org/abs/2603.12820",
             "year": "2026",
-            "month": ""
+            "month": "mar"
         },
         "img_path": ".img/2026 arXiv - NeurFrame - Learning Continuous Frame Fields for Structured Mesh Generation_Pasted image 20260316103528.png"
     },
@@ -102,7 +102,8 @@
         "filename": "2021 CGF - Frame Field Operators.md",
         "properties": {
             "tags": [
-                "directional"
+                "directional",
+                "frame_field"
             ],
             "teaser": "Pasted image 20260315223145.png",
             "code": "https://github.com/dpa1mer/ff-op",
@@ -196,7 +197,8 @@
         "filename": "2013 TOG - Globally optimal direction fields.md",
         "properties": {
             "tags": [
-                "directional"
+                "directional",
+                "cross_field"
             ],
             "teaser": "Pasted image 20251023214957.png",
             "code": "https://github.com/GeometryCollective/fieldgen",
@@ -269,7 +271,8 @@
             "tags": [
                 "directional",
                 "quadrangulate",
-                "neural"
+                "neural",
+                "cross_field"
             ],
             "teaser": "Pasted image 20260227154358.png",
             "code": "",
@@ -292,7 +295,9 @@
         "filename": "2024 CGF - Anisotropy and Cross Fields.md",
         "properties": {
             "tags": [
-                "directional"
+                "directional",
+                "anisotropy",
+                "cross_field"
             ],
             "teaser": "Pasted image 20260130231002.png",
             "code": "",
@@ -413,7 +418,8 @@
             "tags": [
                 "directional",
                 "heat_method",
-                "neural"
+                "neural",
+                "cross_field"
             ],
             "teaser": "Pasted image 20260227154122.png",
             "code": "https://github.com/gaoalexander/vector-heat-net",
@@ -554,7 +560,8 @@
         "properties": {
             "tags": [
                 "directional",
-                "neural"
+                "neural",
+                "frame_field"
             ],
             "teaser": "Pasted image 20260221121531.png",
             "code": "https://github.com/Ankbzpx/frame-field",
@@ -574,11 +581,38 @@
         "img_path": ".img/2025 TOG - Neural Octahedral Field - Octahedral Prior for Simultaneous Smoothing and Sharp Edge Regularization_Pasted image 20260221121531.png"
     },
     {
+        "filename": "2024 IMR - Integrable Cross-Field Generation Based on Imposed Singularity Configuration—The 2D Manifold Case.md",
+        "properties": {
+            "tags": [
+                "directional",
+                "integrable",
+                "cross_field"
+            ],
+            "teaser": "Pasted image 20260316230555.png",
+            "code": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "bibtex": "@InProceedings{10.1007/978-3-031-40594-5_16,\nauthor=\"Jezdimirovi{\\'{c}}, Jovana\nand Chemin, Alexandre\nand Remacle, Jean-Fran{\\c{c}}ois\",\neditor=\"Ruiz-Giron{\\'e}s, Eloi\nand Sevilla, Rub{\\'e}n\nand Moxey, David\",\ntitle=\"Integrable Cross-Field Generation Based on Imposed Singularity Configuration---The 2D Manifold Case\",\nbooktitle=\"SIAM International Meshing Roundtable 2023\",\nyear=\"2024\",\npublisher=\"Springer Nature Switzerland\",\naddress=\"Cham\",\npages=\"343--369\",\nabstract=\"This work presents the mathematical foundations for the generation of integrable cross-field on 2D manifolds based on user-imposed singularity configuration. In this paper, we either use singularities that appear naturally by solving a non-linear problem, or use as an input user-defined singularity pattern, possibly with high valence singularities that typically do not appear in cross-field computations. This singularity set is under the constraint of Abel-Jacobi's conditions for valid singularity configurations. The main contribution of the paper is the development of a formulation that allows computing, when possible, an integrable isotropic 2D cross-field from a given set of singularities through the resolution of only two linear PDEs. To address the issue of possible suboptimal singularities' distribution, we also present the mathematical setting for the generation of an integrable anisotropic 2D cross-field based on a user-imposed singularity pattern. The developed formulations support both an isotropic and an anisotropic block-structured quad mesh generation.\",\nisbn=\"978-3-031-40594-5\"\n}"
+        },
+        "bibtex_parsed": {
+            "title": "Integrable Cross-Field Generation Based on Imposed Singularity Configuration---The 2D Manifold Case",
+            "author": "Jezdimirovi\\'c, Jovana and Chemin, Alexandre and Remacle, Jean-Fran\\ccois",
+            "venue": "SIAM International Meshing Roundtable 2023",
+            "doi_url": "",
+            "year": "2024",
+            "month": ""
+        },
+        "img_path": ".img/2024 IMR - Integrable Cross-Field Generation Based on Imposed Singularity Configuration—The 2D Manifold Case_Pasted image 20260316230555.png"
+    },
+    {
         "filename": "2024 IMR - Integrable Frame Fields using Odeco Tensors.md",
         "properties": {
             "tags": [
                 "directional",
-                "odeco_tensors"
+                "odeco_tensors",
+                "integrable",
+                "cross_field"
             ],
             "teaser": "Pasted image 20251002234710.png",
             "code": "",
@@ -725,7 +759,8 @@
             "tags": [
                 "directional",
                 "quadrangulate",
-                "neural"
+                "neural",
+                "cross_field"
             ],
             "teaser": "Pasted image 20260311153907.png",
             "code": "",
@@ -750,7 +785,8 @@
             "tags": [
                 "directional",
                 "integrable",
-                "parameterization"
+                "parameterization",
+                "cross_field"
             ],
             "teaser": "Pasted image 20260215214409.png",
             "code": "",
@@ -774,7 +810,8 @@
         "properties": {
             "tags": [
                 "directional",
-                "neural"
+                "neural",
+                "cross_field"
             ],
             "teaser": "Pasted image 20260311160810.png",
             "code": "",
@@ -797,7 +834,8 @@
         "filename": "2019 arXiv - Multiple Approaches to Frame Field Correction for CAD Models.md",
         "properties": {
             "tags": [
-                "directional"
+                "directional",
+                "frame_field"
             ],
             "teaser": "Pasted image 20260315223924.png",
             "code": "",
@@ -821,7 +859,8 @@
         "properties": {
             "tags": [
                 "directional",
-                "anisotropy"
+                "anisotropy",
+                "cross_field"
             ],
             "teaser": "Pasted image 20260304172308.png",
             "code": "http://www.inf.ethz.ch/personal/dpanozzo/libigl_tutorial/506_FrameField/main.cpp",
@@ -868,7 +907,8 @@
         "properties": {
             "tags": [
                 "directional",
-                "integrable"
+                "integrable",
+                "cross_field"
             ],
             "teaser": "Pasted image 20260215203150.png",
             "code": "",
@@ -986,7 +1026,8 @@
         "filename": "2014 CGF - Designing N-PolyVector Fields with Complex Polynomials.md",
         "properties": {
             "tags": [
-                "directional"
+                "directional",
+                "cross_field"
             ],
             "teaser": "Pasted image 20260226165031.png",
             "code": "https://igl.ethz.ch/projects/complex-roots/nPV.zip",
@@ -1059,7 +1100,8 @@
         "properties": {
             "tags": [
                 "directional",
-                "integrable"
+                "integrable",
+                "cross_field"
             ],
             "teaser": "Pasted image 20260215203300.png",
             "code": "",
@@ -1082,7 +1124,8 @@
         "filename": "2020 TOG - Subdivision Directional Fields.md",
         "properties": {
             "tags": [
-                "directional"
+                "directional",
+                "cross_field"
             ],
             "teaser": "Pasted image 20260130194134.png",
             "code": "",
@@ -1323,7 +1366,8 @@
         "filename": "2015 TOG - Frame Field Generation through Metric Customization.md",
         "properties": {
             "tags": [
-                "directional"
+                "directional",
+                "cross_field"
             ],
             "teaser": "Pasted image 20260315224255.png",
             "code": "",
@@ -1346,7 +1390,8 @@
         "filename": "2016 - Analysis of Non-Meshable Automatically Generated Frame fields.md",
         "properties": {
             "tags": [
-                "directional"
+                "directional",
+                "cross_field"
             ],
             "teaser": "Pasted image 20260315233803.png",
             "code": "",
@@ -1516,7 +1561,8 @@
         "properties": {
             "tags": [
                 "directional",
-                "neural"
+                "neural",
+                "cross_field"
             ],
             "teaser": "Pasted image 20260311160158.png",
             "code": "",
@@ -1756,7 +1802,8 @@
         "filename": "2023 CGF - Singularity-Free Frame Fields for Line Drawing Vectorization.md",
         "properties": {
             "tags": [
-                "directional"
+                "directional",
+                "cross_field"
             ],
             "teaser": "Pasted image 20260315222843.png",
             "code": "https://github.com/SingularityFreeFrameFields/Code",
