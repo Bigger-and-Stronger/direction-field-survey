@@ -62,7 +62,7 @@
             "project": "",
             "slide": "",
             "supplemental": "",
-            "bibtex": "@misc{yu2026neurframelearningcontinuousframe,\n      title={NeurFrame: Learning Continuous Frame Fields for Structured Mesh Generation}, \n      author={Xiaoyang Yu and Canjia Huang and Zhonggui Chen and Juan Cao},\n      year={2026},\n      month={mar},\n      eprint={2603.12820},\n      archivePrefix={arXiv},\n      primaryClass={cs.GR},\n      url={https://arxiv.org/abs/2603.12820}, \n}"
+            "bibtex": "@misc{yu2026neurframelearningcontinuousframe,\n      title={NeurFrame: Learning Continuous Frame Fields for Structured Mesh Generation}, \n      author={Xiaoyang Yu and Canjia Huang and Zhonggui Chen and Juan Cao},\n      year={2026},\n      month=mar,\n      eprint={2603.12820},\n      archivePrefix={arXiv},\n      primaryClass={cs.GR},\n      url={https://arxiv.org/abs/2603.12820}, \n}"
         },
         "bibtex_parsed": {
             "title": "NeurFrame: Learning Continuous Frame Fields for Structured Mesh Generation",
@@ -70,7 +70,7 @@
             "venue": "",
             "doi_url": "https://arxiv.org/abs/2603.12820",
             "year": "2026",
-            "month": "mar"
+            "month": "March"
         },
         "img_path": ".img/2026 arXiv - NeurFrame - Learning Continuous Frame Fields for Structured Mesh Generation_Pasted image 20260316103528.png"
     },
