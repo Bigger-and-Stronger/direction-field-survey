@@ -458,6 +458,30 @@
         "img_path": ".img/2024 arXiv - An Intrinsic Vector Heat Network_Pasted image 20260227154122.png"
     },
     {
+        "filename": "2021 - A Variational Method for Generating 𝑛-Cross Fields Using Higher-Order 𝑄-Tensors.md",
+        "properties": {
+            "bibtex": "@article{doi:10.1137/19M1287857,\nauthor = {Golovaty, Dmitry and Montero, Jose Alberto and Spirn, Daniel},\ntitle = {A Variational Method for Generating \\$n\\$-Cross Fields Using Higher-Order \\$Q\\$-Tensors},\njournal = {SIAM Journal on Scientific Computing},\nvolume = {43},\nnumber = {5},\npages = {A3269-A3304},\nyear = {2021},\ndoi = {10.1137/19M1287857},\nURL = {https://doi.org/10.1137/19M1287857},\neprint = {https://doi.org/10.1137/19M1287857},\nabstract = { An \\$n\\$-cross field is a locally defined orthogonal coordinate system invariant with respect to the hyperoctahedral symmetry group (cubic for \\$n=3\\$). Cross fields are finding wide-spread use in mesh generation, computer graphics, and materials science among many applications. It was recently shown in [A. Chemin et al., International Meshing Roundtable, 2019, pp. 89--108] that 3-cross fields can be embedded into the set of symmetric fourth-order tensors. The concurrent work [D. Palmer, D. Bommes, and J. Solomon, Algebraic Representations for Volumetric Frame Fields, preprint, arXiv:1908.05411 (2019)] further develops a relaxation of this tensor field via a certain set of varieties. In this paper, we consider the problem of generating an arbitrary \\$n\\$-cross field using a fourth-order \\$Q\\$-tensor theory that is constructed out of tensored projection matrices. We establish that by a Ginzburg--Landau relaxation towards a global projection, one can reliably generate an \\$n\\$-cross field on arbitrary Lipschitz domains. Our work provides a rigorous approach that offers several new results including porting the tensor framework to arbitrary dimensions, providing a new relaxation method that embeds the problem into a global steepest descent, and offering a relaxation scheme for aligning the cross field with the boundary. Our approach is designed to fit within the classical Ginzburg--Landau PDE theory, offering a concrete road map for the future careful study of singularities of energy minimizers. }\n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "directional"
+            ],
+            "teaser": "Pasted image 20260319222423.png"
+        },
+        "bibtex_parsed": {
+            "title": "A Variational Method for Generating \\$n\\$-Cross Fields Using Higher-Order \\$Q\\$-Tensors",
+            "author": "Golovaty, Dmitry and Montero, Jose Alberto and Spirn, Daniel",
+            "venue": "SIAM Journal on Scientific Computing",
+            "doi_url": "https://doi.org/10.1137/19M1287857",
+            "year": "2021",
+            "month": ""
+        },
+        "img_path": ".img/2021 - A Variational Method for Generating 𝑛-Cross Fields Using Higher-Order 𝑄-Tensors_Pasted image 20260319222423.png"
+    },
+    {
         "filename": "2017 TOG - Tensor field design in volumes.md",
         "properties": {
             "bibtex": "@article{10.1145/3130800.3130844,\nauthor = {Palacios, Jonathan and Roy, Lawrence and Kumar, Prashant and Hsu, Chen-Yuan and Chen, Weikai and Ma, Chongyang and Wei, Li-Yi and Zhang, Eugene},\ntitle = {Tensor field design in volumes},\nyear = {2017},\nissue_date = {December 2017},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nvolume = {36},\nnumber = {6},\nissn = {0730-0301},\nurl = {https://doi.org/10.1145/3130800.3130844},\ndoi = {10.1145/3130800.3130844},\njournal = {ACM Trans. Graph.},\nmonth = nov,\narticleno = {188},\nnumpages = {15},\nkeywords = {3D tensor fields, element synthesis, geometry synthesis, tensor field design, texture synthesis, topology}\n}",
@@ -1584,7 +1608,8 @@
             "tags": [
                 "directional",
                 "frame_field",
-                "odeco_tensors"
+                "odeco_tensors",
+                "anisotropy"
             ],
             "teaser": "Pasted image 20260129091426.png"
         },
