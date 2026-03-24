@@ -415,7 +415,8 @@
             "slide": "",
             "supplemental": "",
             "tags": [
-                "directional"
+                "directional",
+                "moving_frames"
             ],
             "teaser": "Pasted image 20260226164730.png"
         },
@@ -1053,7 +1054,8 @@
             "supplemental": "",
             "tags": [
                 "directional",
-                "frame_field"
+                "frame_field",
+                "moving_frames"
             ],
             "teaser": "Pasted image 20260130231134.png"
         },
@@ -1354,7 +1356,8 @@
             "supplemental": "",
             "tags": [
                 "directional",
-                "tracing"
+                "tracing",
+                "parameterization"
             ],
             "teaser": "Pasted image 20260219141518.png"
         },
