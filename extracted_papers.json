@@ -1554,7 +1554,7 @@
             "bibtex": "@article{10.1145/3366786,\nauthor = {Palmer, David and Bommes, David and Solomon, Justin},\ntitle = {Algebraic Representations for Volumetric Frame Fields},\nyear = {2020},\nissue_date = {April 2020},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nvolume = {39},\nnumber = {2},\nissn = {0730-0301},\nurl = {https://doi.org/10.1145/3366786},\ndoi = {10.1145/3366786},\njournal = {ACM Trans. Graph.},\nmonth = apr,\narticleno = {16},\nnumpages = {17},\nkeywords = {octahedral frame fields, convex relaxations, convex algebraic geometry, Hexahedral meshing}\n}",
             "code": "https://github.com/dpa1mer/arff",
             "data": "",
-            "project": "",
+            "project": "https://www.algohex.eu/publications/algebraic-representations-for-volumetric-frame-fields/",
             "slide": "",
             "supplemental": "",
             "tags": [
@@ -1882,7 +1882,7 @@
             "bibtex": "@article{10.1145/3374209,\nauthor = {Zhang, Paul and Vekhter, Josh and Chien, Edward and Bommes, David and Vouga, Etienne and Solomon, Justin},\ntitle = {Octahedral Frames for Feature-Aligned Cross Fields},\nyear = {2020},\nissue_date = {June 2020},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nvolume = {39},\nnumber = {3},\nissn = {0730-0301},\nurl = {https://doi.org/10.1145/3374209},\ndoi = {10.1145/3374209},\nabstract = {We present a method for designing smooth cross fields on surfaces that automatically align to sharp features of an underlying geometry. Our approach introduces a novel class of energies based on a representation of cross fields in the spherical harmonic basis. We provide theoretical analysis of these energies in the smooth setting, showing that they penalize deviations from surface creases while otherwise promoting intrinsically smooth fields. We demonstrate the applicability of our method to quad meshing and include an extensive benchmark comparing our fields to other automatic approaches for generating feature-aligned cross fields on triangle meshes.},\njournal = {ACM Trans. Graph.},\nmonth = apr,\narticleno = {25},\nnumpages = {13},\nkeywords = {total variation, singularities, geometry processing, feature alignment, Discrete differential geometry}\n}",
             "code": "",
             "data": "",
-            "project": "",
+            "project": "https://www.algohex.eu/publications/octahedral-frames-for-feature-aligned-cross-fields/",
             "slide": "",
             "supplemental": "",
             "tags": [
