@@ -155,7 +155,7 @@
         "filename": "2025 CGF - Mint - Discretely Integrable Moments for Symmetric Frame Fields.md",
         "properties": {
             "bibtex": "@article{https://doi.org/10.1111/cgf.70193,\nauthor = {Vekhter, J. and Chen, Z. and Vouga, E.},\ntitle = {Mint: Discretely Integrable Moments for Symmetric Frame Fields},\njournal = {Computer Graphics Forum},\nvolume = {44},\nnumber = {5},\npages = {e70193},\nkeywords = {frame field optimization, integrability, volumetric parameterization},\ndoi = {https://doi.org/10.1111/cgf.70193},\nurl = {https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.70193},\neprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.70193},\nyear = {2025}\n}",
-            "code": "",
+            "code": "https://github.com/the13fools/Mint3D",
             "data": "",
             "project": "",
             "slide": "",
@@ -659,6 +659,32 @@
             "month": ""
         },
         "img_path": ".img/2000 SIGGRAPH - Illustrating smooth surfaces_Pasted image 20260315234201.png"
+    },
+    {
+        "filename": "2022 TOG - Which cross fields can be quadrangulated - global parameterization from prescribed holonomy signatures.md",
+        "properties": {
+            "bibtex": "@article{10.1145/3528223.3530187,\nauthor = {Shen, Hanxiao and Zhu, Leyi and Capouellez, Ryan and Panozzo, Daniele and Campen, Marcel and Zorin, Denis},\ntitle = {Which cross fields can be quadrangulated? global parameterization from prescribed holonomy signatures},\nyear = {2022},\nissue_date = {July 2022},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nvolume = {41},\nnumber = {4},\nissn = {0730-0301},\nurl = {https://doi.org/10.1145/3528223.3530187},\ndoi = {10.1145/3528223.3530187},\nabstract = {We describe a method for the generation of seamless surface parametrizations with guaranteed local injectivity and full control over holonomy. Previous methods guarantee only one of the two. Local injectivity is required to enable these parametrizations' use in applications such as surface quadrangulation and spline construction. Holonomy control is crucial to enable guidance or prescription of the parametrization's isocurves based on directional information, in particular from cross-fields or feature curves, and more generally to constrain the parametrization topologically. To this end we investigate the relation between cross-field topology and seamless parametrization topology. Leveraging previous results on locally injective parametrization and combining them with insights on this relation in terms of holonomy, we propose an algorithm that meets these requirements. A key component relies on the insight that arbitrary surface cut graphs, as required for global parametrization, can be homeomorphically modified to assume almost any set of turning numbers with respect to a given target cross-field.},\njournal = {ACM Trans. Graph.},\nmonth = jul,\narticleno = {59},\nnumpages = {12},\nkeywords = {conformal map, cross field, holonomy, quad mesh, seamless parametrization, turning number}\n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "parameterization",
+                "directional",
+                "quadrangulate"
+            ],
+            "teaser": "Pasted image 20260329125159.png"
+        },
+        "bibtex_parsed": {
+            "title": "Which cross fields can be quadrangulated? global parameterization from prescribed holonomy signatures",
+            "author": "Shen, Hanxiao and Zhu, Leyi and Capouellez, Ryan and Panozzo, Daniele and Campen, Marcel and Zorin, Denis",
+            "venue": "ACM Trans. Graph.",
+            "doi_url": "https://doi.org/10.1145/3528223.3530187",
+            "year": "2022",
+            "month": "July"
+        },
+        "img_path": ".img/2022 TOG - Which cross fields can be quadrangulated - global parameterization from prescribed holonomy signatures_Pasted image 20260329125159.png"
     },
     {
         "filename": "2016 CGF - Directional Field Synthesis, Design, and Processing.md",
