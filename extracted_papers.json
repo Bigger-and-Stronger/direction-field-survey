@@ -1547,7 +1547,7 @@
         "filename": "2026 TOG - Learning Sparse Singularities for Cross Field Design.md",
         "properties": {
             "bibtex": "@article{10.1145/3787520,\nauthor = {Zhang, Xiaohu and Bao, Hujun and Huang, Jin},\ntitle = {Learning Sparse Singularities for Cross Field Design},\nyear = {2026},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nissn = {0730-0301},\nurl = {https://doi.org/10.1145/3787520},\ndoi = {10.1145/3787520},\nnote = {Just Accepted},\njournal = {ACM Trans. Graph.},\nmonth = jan,\nkeywords = {Neural Network, Cross Field, Quad Mesh, Singularity, Topology, Landmark Detection}\n}",
-            "code": "",
+            "code": "https://github.com/zxhcho/LSS-CrossField",
             "data": "",
             "project": "",
             "slide": "",
