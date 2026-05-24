@@ -1042,6 +1042,32 @@
         "img_path": ".img/2003 - Identifying Vector Field Singularities Using a Discrete Hodge Decomposition_Pasted image 20260215202849.png"
     },
     {
+        "filename": "2016 CGF - Tracing Field-Coherent Quad Layouts.md",
+        "properties": {
+            "bibtex": "@article{https://doi.org/10.1111/cgf.13045,\nauthor = {Pietroni, Nico and Puppo, Enrico and Marcias, Giorgio and Scopigno, Roberto and Cignoni, Paolo},\ntitle = {Tracing Field-Coherent Quad Layouts},\njournal = {Computer Graphics Forum},\nvolume = {35},\nnumber = {7},\npages = {485-496},\nkeywords = {Categories and Subject Descriptors (according to ACM CCS), I.3.3 Computer Graphics: Picture/Image Generation—Line and curve generation},\ndoi = {https://doi.org/10.1111/cgf.13045},\nurl = {https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13045},\neprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.13045},\nabstract = {Abstract Given a cross field over a triangulated surface we present a practical and robust method to compute a field aligned coarse quad layout over the surface. The method works directly on a triangle mesh without requiring any parametrization and it is based on a new technique for tracing field-coherent geodesic paths directly on a triangle mesh, and on a new relaxed formulation of a binary LP problem, which allows us to extract both conforming quad layouts and coarser layouts containing t-junctions. Our method is easy to implement, very robust, and, being directly based on the input cross field, it is able to generate better aligned layouts, even with complicated fields containing many singularities. We show results on a number of datasets and comparisons with state-of-the-art methods.},\nyear = {2016}\n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "quadrangulate",
+                "layouts",
+                "directional"
+            ],
+            "teaser": "Pasted image 20260523152439.png"
+        },
+        "bibtex_parsed": {
+            "title": "Tracing Field-Coherent Quad Layouts",
+            "author": "Pietroni, Nico and Puppo, Enrico and Marcias, Giorgio and Scopigno, Roberto and Cignoni, Paolo",
+            "venue": "Computer Graphics Forum",
+            "doi_url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13045",
+            "year": "2016",
+            "month": ""
+        },
+        "img_path": ".img/2016 CGF - Tracing Field-Coherent Quad Layouts_Pasted image 20260523152439.png"
+    },
+    {
         "filename": "2019 TOG - Chebyshev nets from commuting PolyVector fields.md",
         "properties": {
             "bibtex": "@article{10.1145/3355089.3356564,\nauthor = {Sageman-Furnas, Andrew O. and Chern, Albert and Ben-Chen, Mirela and Vaxman, Amir},\ntitle = {Chebyshev nets from commuting PolyVector fields},\nyear = {2019},\nissue_date = {December 2019},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nvolume = {38},\nnumber = {6},\nissn = {0730-0301},\nurl = {https://doi.org/10.1145/3355089.3356564},\ndoi = {10.1145/3355089.3356564},\njournal = {ACM Trans. Graph.},\nmonth = nov,\narticleno = {172},\nnumpages = {16},\nkeywords = {Chebyshev nets, Ginzburg-Landau, PolyVector fields, directional fields, lie brackets}\n}",
