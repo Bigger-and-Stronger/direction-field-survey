@@ -1059,6 +1059,32 @@
         "img_path": ".img/2025 CGF - The Affine Heat Method_Pasted image 20260227153854.png"
     },
     {
+        "filename": "2025 - A neural poly-vector based non-orthogonal frame field generation method for quad meshing.md",
+        "properties": {
+            "bibtex": "@article{yu2025neural,\n  title={A neural poly-vector based non-orthogonal frame field generation method for quad meshing},\n  author={Yu, Yanchao and Li, Ni and Gong, Guanghong and Lin, Xin},\n  journal={Scientific Reports},\n  volume={15},\n  number={1},\n  pages={33595},\n  year={2025},\n  publisher={Nature Publishing Group UK London}\n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "quadrangulate",
+                "directional",
+                "neural"
+            ],
+            "teaser": "Pasted image 20260530093227.png"
+        },
+        "bibtex_parsed": {
+            "title": "A neural poly-vector based non-orthogonal frame field generation method for quad meshing",
+            "author": "Yu, Yanchao and Li, Ni and Gong, Guanghong and Lin, Xin",
+            "venue": "Scientific Reports",
+            "doi_url": "",
+            "year": "2025",
+            "month": ""
+        },
+        "img_path": ".img/2025 - A neural poly-vector based non-orthogonal frame field generation method for quad meshing_Pasted image 20260530093227.png"
+    },
+    {
         "filename": "2008 TOG - N-symmetry direction field design.md",
         "properties": {
             "bibtex": "@article{10.1145/1356682.1356683,\nauthor = {Ray, Nicolas and Vallet, Bruno and Li, Wan Chiu and L\\'{e}vy, Bruno},\ntitle = {N-symmetry direction field design},\nyear = {2008},\nissue_date = {April 2008},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nvolume = {27},\nnumber = {2},\nissn = {0730-0301},\nurl = {https://doi.org/10.1145/1356682.1356683},\ndoi = {10.1145/1356682.1356683},\nabstract = {Many algorithms in computer graphics and geometry processing use two orthogonal smooth direction fields (unit tangent vector fields) defined over a surface. For instance, these direction fields are used in texture synthesis, in geometry processing or in nonphotorealistic rendering to distribute and orient elements on the surface. Such direction fields can be designed in fundamentally different ways, according to the symmetry requested: inverting a direction or swapping two directions might be allowed or not.Despite the advances realized in the last few years in the domain of geometry processing, a unified formalism is still lacking for the mathematical object that characterizes these generalized direction fields. As a consequence, existing direction field design algorithms are limited to using nonoptimum local relaxation procedures.In this article, we formalize N-symmetry direction fields, a generalization of classical direction fields. We give a new definition of their singularities to explain how they relate to the topology of the surface. Specifically, we provide an accessible demonstration of the Poincar\\'{e}-Hopf theorem in the case of N-symmetry direction fields on 2-manifolds. Based on this theorem, we explain how to control the topology of N-symmetry direction fields on meshes. We demonstrate the validity and robustness of this formalism by deriving a highly efficient algorithm to design a smooth field interpolating user-defined singularities and directions.},\njournal = {ACM Trans. Graph.},\nmonth = may,\narticleno = {10},\nnumpages = {13},\nkeywords = {N-symmetry direction field, Vector field design, topology}\n}",
