@@ -1203,7 +1203,8 @@
             "tags": [
                 "directional",
                 "tracing",
-                "parameterization"
+                "parameterization",
+                "bijective"
             ],
             "teaser": "Pasted image 20260219141518.png"
         },
