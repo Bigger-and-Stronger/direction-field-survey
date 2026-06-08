@@ -584,6 +584,30 @@
         "img_path": ".img/2003 - Identifying Vector Field Singularities Using a Discrete Hodge Decomposition_Pasted image 20260215202849.png"
     },
     {
+        "filename": "2026 - Extrinsic Vector Field Processing.md",
+        "properties": {
+            "bibtex": "@misc{liu2026extrinsicvectorfieldprocessing,\n      title={Extrinsic Vector Field Processing}, \n      author={Hongyi Liu and Oded Stein and Amir Vaxman and Mirela Ben-Chen and Misha Kazhdan},\n      year={2026},\n      eprint={2601.10621},\n      archivePrefix={arXiv},\n      primaryClass={cs.GR},\n      url={https://arxiv.org/abs/2601.10621}, \n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "directional"
+            ],
+            "teaser": "Pasted image 20260607134716.png"
+        },
+        "bibtex_parsed": {
+            "title": "Extrinsic Vector Field Processing",
+            "author": "Hongyi Liu and Oded Stein and Amir Vaxman and Mirela Ben-Chen and Misha Kazhdan",
+            "venue": "",
+            "doi_url": "https://arxiv.org/abs/2601.10621",
+            "year": "2026",
+            "month": ""
+        },
+        "img_path": ".img/2026 - Extrinsic Vector Field Processing_Pasted image 20260607134716.png"
+    },
+    {
         "filename": "2020 TOG - Octahedral Frames for Feature-Aligned Cross Fields.md",
         "properties": {
             "bibtex": "@article{10.1145/3374209,\nauthor = {Zhang, Paul and Vekhter, Josh and Chien, Edward and Bommes, David and Vouga, Etienne and Solomon, Justin},\ntitle = {Octahedral Frames for Feature-Aligned Cross Fields},\nyear = {2020},\nissue_date = {June 2020},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nvolume = {39},\nnumber = {3},\nissn = {0730-0301},\nurl = {https://doi.org/10.1145/3374209},\ndoi = {10.1145/3374209},\nabstract = {We present a method for designing smooth cross fields on surfaces that automatically align to sharp features of an underlying geometry. Our approach introduces a novel class of energies based on a representation of cross fields in the spherical harmonic basis. We provide theoretical analysis of these energies in the smooth setting, showing that they penalize deviations from surface creases while otherwise promoting intrinsically smooth fields. We demonstrate the applicability of our method to quad meshing and include an extensive benchmark comparing our fields to other automatic approaches for generating feature-aligned cross fields on triangle meshes.},\njournal = {ACM Trans. Graph.},\nmonth = apr,\narticleno = {25},\nnumpages = {13},\nkeywords = {total variation, singularities, geometry processing, feature alignment, Discrete differential geometry}\n}",
