@@ -1270,6 +1270,30 @@
         "img_path": ".img/2018 TOG - Singularity-constrained octahedral fields for hexahedral meshing_Pasted image 20250805235803.png"
     },
     {
+        "filename": "2016 TOG- Subdivision Exterior Calculus for Geometry Processing.md",
+        "properties": {
+            "bibtex": "@article{10.1145/2897824.2925880,\nauthor = {de Goes, Fernando and Desbrun, Mathieu and Meyer, Mark and DeRose, Tony},\ntitle = {Subdivision exterior calculus for geometry processing},\nyear = {2016},\nissue_date = {July 2016},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nvolume = {35},\nnumber = {4},\nissn = {0730-0301},\nurl = {https://doi.org/10.1145/2897824.2925880},\ndoi = {10.1145/2897824.2925880},\njournal = {ACM Trans. Graph.},\nmonth = jul,\narticleno = {133},\nnumpages = {11},\nkeywords = {subdivision surfaces, geometry processing, discrete exterior calculus, discrete differential geometry}\n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "directional"
+            ],
+            "teaser": "Pasted image 20260303192656.png"
+        },
+        "bibtex_parsed": {
+            "title": "Subdivision exterior calculus for geometry processing",
+            "author": "de Goes, Fernando and Desbrun, Mathieu and Meyer, Mark and DeRose, Tony",
+            "venue": "ACM Trans. Graph.",
+            "doi_url": "https://doi.org/10.1145/2897824.2925880",
+            "year": "2016",
+            "month": "July"
+        },
+        "img_path": ".img/2016 TOG- Subdivision Exterior Calculus for Geometry Processing_Pasted image 20260303192656.png"
+    },
+    {
         "filename": "2016 CAD - Smoothness driven frame field generation for hexahedral meshing.md",
         "properties": {
             "bibtex": "@article{KOWALSKI201665,\ntitle = {Smoothness driven frame field generation for hexahedral meshing},\njournal = {Computer-Aided Design},\nvolume = {72},\npages = {65-77},\nyear = {2016},\nnote = {23rd International Meshing Roundtable Special Issue: Advances in Mesh Generation},\nissn = {0010-4485},\ndoi = {https://doi.org/10.1016/j.cad.2015.06.009},\nurl = {https://www.sciencedirect.com/science/article/pii/S0010448515000895},\nauthor = {N. Kowalski and F. Ledoux and P. Frey},\nkeywords = {Meshing algorithm, Hexahedra, Block-structured, Frame fields},\n}",
@@ -1498,6 +1522,24 @@
             "month": ""
         },
         "img_path": ".img/2003 - Identifying Vector Field Singularities Using a Discrete Hodge Decomposition_Pasted image 20260215202849.png"
+    },
+    {
+        "filename": "2021 - Controllable curl-correction of 3D frame fields.md",
+        "properties": {
+            "bibtex": "@article{:/publisher/Science China Press/journal/SCIENTIA SINICA Informationis/51/2/10.1360/SSI-2019-0277,\r\n  author = \"Xianzhong FANG,Yao JIN,Jin HUANG,Hujun BAO\",\r\n  title = \"Controllable curl-correction of 3D frame fields\",\r\n  journal = \"SCIENTIA SINICA Informationis\",\r\n  year = \"2021\",\r\n  volume = \"51\",\r\n  number = \"2\",\r\n  pages = \"263-\",\r\n  url = \"http://www.sciengine.com/publisher/Science China Press/journal/SCIENTIA SINICA Informationis/51/2/10.1360/SSI-2019-0277,\r\n  doi = \"https://doi.org/10.1360/SSI-2019-0277\"\r\n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "directional",
+                "frame_field"
+            ],
+            "teaser": "Pasted image 20260618150652.png"
+        },
+        "bibtex_parsed": {},
+        "img_path": ".img/2021 - Controllable curl-correction of 3D frame fields_Pasted image 20260618150652.png"
     },
     {
         "filename": "2025 arXiv - Learning Conjugate Direction Fields for Planar Quadrilateral Mesh Generation.md",
