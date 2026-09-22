@@ -1808,32 +1808,6 @@
         "img_path": ".img/2003 - Identifying Vector Field Singularities Using a Discrete Hodge Decomposition_Pasted image 20260215202849.png"
     },
     {
-        "filename": "2025 - A neural poly-vector based non-orthogonal frame field generationmethod for quad meshing.md",
-        "properties": {
-            "bibtex": "@article{yu2025neural,\n  title={A neural poly-vector based non-orthogonal frame field generation method for quad meshing},\n  author={Yu, Yanchao and Li, Ni and Gong, Guanghong and Lin, Xin},\n  journal={Scientific Reports},\n  volume={15},\n  number={1},\n  pages={33595},\n  year={2025},\n  publisher={Nature Publishing Group UK London}\n}",
-            "code": "",
-            "data": "",
-            "project": "",
-            "slide": "",
-            "supplemental": "",
-            "tags": [
-                "directional",
-                "neural",
-                "cross_field"
-            ],
-            "teaser": "Pasted image 20260311160158.png"
-        },
-        "bibtex_parsed": {
-            "title": "A neural poly-vector based non-orthogonal frame field generation method for quad meshing",
-            "author": "Yu, Yanchao and Li, Ni and Gong, Guanghong and Lin, Xin",
-            "venue": "Scientific Reports",
-            "doi_url": "",
-            "year": "2025",
-            "month": ""
-        },
-        "img_path": ".img/2025 - A neural poly-vector based non-orthogonal frame field generationmethod for quad meshing_Pasted image 20260311160158.png"
-    },
-    {
         "filename": "2012 TOG - Fields on symmetric surfaces.md",
         "properties": {
             "bibtex": "@article{10.1145/2185520.2185607,\nauthor = {Panozzo, Daniele and Lipman, Yaron and Puppo, Enrico and Zorin, Denis},\ntitle = {Fields on symmetric surfaces},\nyear = {2012},\nissue_date = {July 2012},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nvolume = {31},\nnumber = {4},\nissn = {0730-0301},\nurl = {https://doi.org/10.1145/2185520.2185607},\ndoi = {10.1145/2185520.2185607},\nabstract = {Direction fields, line fields and cross fields are used in a variety of computer graphics applications ranging from non-photorealistic rendering to remeshing. In many cases, it is desirable that fields adhere to symmetry, which is predominant in natural as well as man-made shapes. We present an algorithm for designing smooth N-symmetry fields on surfaces respecting generalized symmetries of the shape, while maintaining alignment with local features. Our formulation for constructing symmetry fields is based on global symmetries, which are given as input to the algorithm, with no isometry assumptions. We explore in detail the properties of generalized symmetries (reflections in particular), and we also develop an algorithm for the robust computation of such symmetry maps, based on a small number of correspondences, for surfaces of genus zero.},\njournal = {ACM Trans. Graph.},\nmonth = jul,\narticleno = {111},\nnumpages = {12},\nkeywords = {symmetry, quad mesh, n-RoSy field}\n}",
